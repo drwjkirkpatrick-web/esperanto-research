@@ -21,7 +21,7 @@
 
 ## Artifacts (verbatim, user-provided)
 - `docs/gap-analysis-30-modules.md` — 30 candidate modules + 8-competitor landscape + phased roadmap; footer: "Prepared by independent analysis of public platform documentation... Not affiliated with Datapunk."
-- `docs/dadamo-review-response.md` — D'Adamo's verdict: build few engines not 30 modules; Module 1 (PGx) and Module 5 (ABO/secretor/Lewis) already exist; false-precision and biology flags (zonulin, HLA, mtDNA, VDR, MTHFR composites).
+- `docs/dadamo-review-response.md` — D'Adamo's verdict summary; **WITHDRAWN from the public repo 2026-10-30 per Walker** (verbatim artifact now held outside the repo; analysis retained in research/04 and docs/synthesis.md)
 
 ## Status
 - [x] Project scaffolded, git init (main), ledger reset + 5 sources pre-registered

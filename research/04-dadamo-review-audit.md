@@ -2,7 +2,7 @@
 
 ## Summary and provenance limits
 
-`docs/dadamo-review-response.md` is Dr. Peter D'Adamo's reply to the 30-module gap analysis, generated — per its own (voice-transcribed) opening line — by feeding the PM into ESPERANTO's internals. It therefore combines insider platform knowledge with LLM-authored prose. **Treatment rule for this project: every claim in it is an attributed insider statement; only what public documentation corroborates is marked CONFIRMED. Absence from public pages is noted, not treated as refutation.**
+`docs/dadamo-review-response.md` is Dr. Peter D'Adamo's reply to the 30-module gap analysis, generated — per its own (voice-transcribed) opening line — by feeding the PM into ESPERANTO's internals. *(The verbatim artifact was withdrawn from this public repo on 2026-10-30; its analysis is retained below.)* It therefore combines insider platform knowledge with LLM-authored prose. **Treatment rule for this project: every claim in it is an attributed insider statement; only what public documentation corroborates is marked CONFIRMED. Absence from public pages is noted, not treated as refutation.**
 
 ## 1. Claims corroborated by public pages
 

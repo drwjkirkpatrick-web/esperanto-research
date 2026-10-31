@@ -13,7 +13,7 @@ It descends from a suite written by D'Adamo at the COEGM for University of Bridg
 **The gap analysis was written outside-in**, from public pages only — its own footer says so. Its reading of the public platform was exact: every number it quotes matches the landing page, and its "unified reasoning layer powered by a dedicated large language model" matches the page's own language almost word for word.[1]
 What it could not see: which capabilities already exist inside, and whether its proposed composite scores were scientifically defensible.
 
-**D'Adamo's review was written inside-out**, generated from ESPERANTO's internals. It identified two of the thirty modules as already built — Module 1 (PGx) and Module 5 (ABO/secretor/Lewis) — which is publicly consistent: COGENT documents drug–gene interactions, ClinVar findings, and "ABO, secretor (FUT2) and Lewis status."[1]
+**D'Adamo's review was written inside-out**, generated from ESPERANTO's internals. (The verbatim reply text was withdrawn from this public repo on 2026-10-30; its analysis is retained here and in `research/04`.) It identified two of the thirty modules as already built — Module 1 (PGx) and Module 5 (ABO/secretor/Lewis) — which is publicly consistent: COGENT documents drug–gene interactions, ClinVar findings, and "ABO, secretor (FUT2) and Lewis status."[1]
 It rejected the 30-module frame as violating the platform's single-record rule — corroborated publicly ("one client, every instrument... every report sees the others").[1]
 And it flagged false precision and three specific biology errors.
 
