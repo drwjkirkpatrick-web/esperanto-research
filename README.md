@@ -72,3 +72,5 @@ The analysis also proposes a three-phase rollout: quick wins (1, 2, 5, 8, 11, 12
 Every sourced claim carries a `[n]` citation; every cited source carries at least one **verbatim quote**, machine-checked against the saved page text in `extracts/`. Citation integrity is enforced with `sources.py verify --evidence` (grounded-citations skill). Insider claims that no public page can confirm stay attributed insider statements — never promoted to fact.
 
 Scope: public documentation and medical literature only. This is a research document, not clinical advice, and not affiliated with Datapunk.
+
+**Printable ledger:** the full 51-source citation ledger — including all 16 verbatim evidence quotes — renders as [`citations/ledger.pdf`](citations/ledger.pdf) (regenerate with `citations/build_ledger_pdf.py`, two `pdflatex` passes).
