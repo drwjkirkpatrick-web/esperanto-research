@@ -35,7 +35,8 @@
 - [x] Quotes attached to ledger ids; `sources.py verify --evidence` green on parent prose
 - [x] Ledger aggregation — 46 dossier URLs folded in mechanically; ledger = 51 sources
 - [x] Synthesis (docs/synthesis.md); README counts updated
-- [x] Commit #2 + push — **GH repo: drwjkirkpatrick-web/esperanto-research, PRIVATE (agent pushed 2026-10-30, docs/ contains the PM excerpt)**
+- [x] Commit #2 + push
+- [x] 2026-10-30: README scrubbed of D'Adamo-review references per Walker (tagline, intro bullet, dossier-04 row, capstone phrase); repo flipped to **PUBLIC** — docs/ and research/04·05 retain the review content by Walker's decision
 
 ## Decisions
 - Subagent dossiers: URL-footnote prose; parent aggregates URLs into ledger mechanically (per fan-out rule).
