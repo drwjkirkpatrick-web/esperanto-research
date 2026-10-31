@@ -2,9 +2,9 @@
 
 *One platform, three instruments, thirty proposed modules, and the man who built it all reading the plan back — every claim held to evidence.*
 
-![status](https://img.shields.io/badge/status-research_in_progress-blue)
-![dossiers](https://img.shields.io/badge/dossiers-3_verified_2_in_flight-teal)
-![ledger](https://img.shields.io/badge/ledger-grounded_citations-9cf)
+![status](https://img.shields.io/badge/status-complete-blue)
+![dossiers](https://img.shields.io/badge/dossiers-5_verified-teal)
+![ledger](https://img.shields.io/badge/ledger-51_sources-9cf)
 ![verification](https://img.shields.io/badge/claims-verbatim_quote_verified-brightgreen)
 
 ## What this is
@@ -26,9 +26,11 @@ COGENT reads the genome (chips or whole-genome VCFs). FLORIAN reads the gut (22,
 | --- | --- | --- |
 | `research/01-platform-overview.md` | What ESPERANTO is — instruments, reasoning layer, Opie, access, pricing, privacy | ✅ verified |
 | `research/02-instruments-and-intake.md` | COGENT / FLORIAN / KINESIS detail; the 81-report intake vault | ✅ verified |
-| `research/03-competitor-verification.md` | 8 named competitors checked against their own pages | ⏳ in flight |
+| `research/03-competitor-verification.md` | 8 named competitors checked against their own pages | ✅ verified |
 | `research/04-dadamo-review-audit.md` | The insider reply vs public docs — confirmed vs insider-only vs analyst-derived | ✅ verified |
-| `research/05-science-flags-check.md` | The science flags (zonulin, HLA-DQ2/8, mtDNA chips, VDR, MTHFR composites) vs the literature | ⏳ in flight |
+| `research/05-science-flags-check.md` | The science flags (zonulin, HLA-DQ2/8, mtDNA chips, VDR, MTHFR composites) vs the literature | ✅ verified |
+
+The capstone is `docs/synthesis.md` — the merged verdict of platform + gap analysis + author's review.
 
 ## Method
 

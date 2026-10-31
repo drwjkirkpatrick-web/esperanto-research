@@ -61,7 +61,7 @@ D'Adamo's "false precision" critique is supported. Across all seven flags, the p
 - Ganesh et al., *A. muciniphila exacerbates Salmonella gut inflammation* (mucin-degrading commensal) — https://pubmed.ncbi.nlm.nih.gov/24040367/
 - Sokol et al., *F. prausnitzii is an anti-inflammatory commensal* (PNAS 2008) — https://pubmed.ncbi.nlm.nih.gov/18936492/
 - Rivière et al., *Bifidobacteria and butyrate-producing colon bacteria* (Front Microbiol 2016) — https://pubmed.ncbi.nlm.nih.gov/27446020/
-- Scheffler et al., *Zonulin ELISA does not detect pre-haptoglobin2* (Front Endocrinol/Mol Med 2024) — https://pubmed.ncbi.nlm.nih.gov/29459849/
+- Scheffler et al., *Zonulin ELISA does not detect pre-haptoglobin2* (Front Endocrinol 2018) — https://pubmed.ncbi.nlm.nih.gov/29459849/
 - Celiac HLA haplotype typing via rs2187668/rs7454108 (Methods Cell Biol 2023) — https://pubmed.ncbi.nlm.nih.gov/37625876/
 - Monsuur et al., *Six tag SNPs detect celiac HLA risk alleles* (PLoS ONE 2008) — https://pubmed.ncbi.nlm.nih.gov/18509540/
 - Koskinen et al., *Tag-SNP HLA typing validated in 3 populations* (Immunogenetics 2009) — https://pubmed.ncbi.nlm.nih.gov/19255754/
@@ -77,7 +77,7 @@ D'Adamo's "false precision" critique is supported. Across all seven flags, the p
 - van der Put et al., *MTHFR A1298C second common mutation* (Am J Hum Genet 1998) — https://pubmed.ncbi.nlm.nih.gov/9545395/
 - Klerk et al., MTHFR 677C>T-CHD meta-analysis (JAMA 2002) — https://pubmed.ncbi.nlm.nih.gov/12387655/
 - ACMG Practice Guideline, lack of evidence for MTHFR testing (Genet Med 2013) — https://pubmed.ncbi.nlm.nih.gov/23288205/
-- Grimaldi et al., guidelines for genotype-based dietary advice validity (Genes Nutr 2023) — https://pubmed.ncbi.nlm.nih.gov/29270237/
+- Grimaldi et al., guidelines for genotype-based dietary advice validity (Genes Nutr 2017) — https://pubmed.ncbi.nlm.nih.gov/29270237/
 - Corella et al., APOA2 × saturated-fat BMI replication (Arch Intern Med 2009) — https://pubmed.ncbi.nlm.nih.gov/19901143/
 - Smith et al., APOA2-dairy interaction replication — https://pubmed.ncbi.nlm.nih.gov/24108135/
 - Scoping review of APOA2/FTO/MC4R adiposity evidence 2019–2025 — https://pubmed.ncbi.nlm.nih.gov/42950483/
@@ -100,7 +100,7 @@ D'Adamo's "false precision" critique is supported. Across all seven flags, the p
 [^5]: Commensal Akkermansia muciniphila exacerbates gut inflammation in Salmonella Typhimurium-infected gnotobiotic mice (PLoS ONE 2013) — https://pubmed.ncbi.nlm.nih.gov/24040367/ (accessed 2026-10-30).
 [^6]: Faecalibacterium prausnitzii is an anti-inflammatory commensal bacterium identified by gut microbiota analysis of Crohn disease patients (PNAS 2008) — https://pubmed.ncbi.nlm.nih.gov/18936492/ (accessed 2026-10-30).
 [^7]: Bifidobacteria and Butyrate-Producing Colon Bacteria: Importance and Strategies for Their Stimulation in the Human Gut (Front Microbiol 2016) — https://pubmed.ncbi.nlm.nih.gov/27446020/ (accessed 2026-10-30).
-[^8]: Widely Used Commercial ELISA Does Not Detect Precursor of Haptoglobin2, but Recognizes Properdin as a Potential Second Member of the Zonulin Family (2024) — https://pubmed.ncbi.nlm.nih.gov/29459849/ (accessed 2026-10-30).
+[^8]: Widely Used Commercial ELISA Does Not Detect Precursor of Haptoglobin2, but Recognizes Properdin as a Potential Second Member of the Zonulin Family (Front Endocrinol 2018) — https://pubmed.ncbi.nlm.nih.gov/29459849/ (accessed 2026-10-30).
 [^9]: A fast, cheap, and easy protocol for celiac disease HLA haplotype typing using buccal swabs (Methods Cell Biol 2023) — https://pubmed.ncbi.nlm.nih.gov/37625876/ (accessed 2026-10-30).
 [^10]: Effective detection of human leukocyte antigen risk alleles in celiac disease using tag single nucleotide polymorphisms (PLoS ONE 2008) — https://pubmed.ncbi.nlm.nih.gov/18509540/ (accessed 2026-10-30).
 [^11]: Cost-effective HLA typing with tagging SNPs predicts celiac disease risk haplotypes in the Finnish, Hungarian, and Italian populations (Immunogenetics 2009) — https://pubmed.ncbi.nlm.nih.gov/19255754/ (accessed 2026-10-30).
@@ -116,7 +116,7 @@ D'Adamo's "false precision" critique is supported. Across all seven flags, the p
 [^21]: A second common mutation in the methylenetetrahydrofolate reductase gene: an additional risk factor for neural-tube defects? (Am J Hum Genet 1998) — https://pubmed.ncbi.nlm.nih.gov/9545395/ (accessed 2026-10-30).
 [^22]: MTHFR 677C-->T polymorphism and risk of coronary heart disease: a meta-analysis (JAMA 2002) — https://pubmed.ncbi.nlm.nih.gov/12387655/ (accessed 2026-10-30).
 [^23]: ACMG Practice Guideline: lack of evidence for MTHFR polymorphism testing (Genet Med 2013) — https://pubmed.ncbi.nlm.nih.gov/23288205/ (accessed 2026-10-30).
-[^24]: Proposed guidelines to evaluate scientific validity and evidence for genotype-based dietary advice (Genes Nutr 2023) — https://pubmed.ncbi.nlm.nih.gov/29270237/ (accessed 2026-10-30).
+[^24]: Proposed guidelines to evaluate scientific validity and evidence for genotype-based dietary advice (Genes Nutr 2017) — https://pubmed.ncbi.nlm.nih.gov/29270237/ (accessed 2026-10-30).
 [^25]: APOA2, dietary fat, and body mass index: replication of a gene-diet interaction in 3 independent populations (Arch Intern Med 2009) — https://pubmed.ncbi.nlm.nih.gov/19901143/ (accessed 2026-10-30).
 [^26]: Apolipoprotein A2 polymorphism interacts with intakes of dairy foods to influence body weight in 2 U.S. populations — https://pubmed.ncbi.nlm.nih.gov/24108135/ (accessed 2026-10-30).
 [^27]: Adiposity-related evidence for APOA2, FTO, and MC4R: a PRISMA-ScR scoping review of recent human studies (2019-2025) — https://pubmed.ncbi.nlm.nih.gov/42950483/ (accessed 2026-10-30).

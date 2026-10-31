@@ -30,11 +30,12 @@
 - [x] research/01 platform overview (parent)
 - [x] research/02 instruments & intake formats (parent)
 - [x] research/04 D'Adamo-review audit vs public docs (parent)
-- [ ] research/03 competitor verification (subagent)
-- [ ] research/05 science-flags literature check (subagent)
-- [ ] Quotes attached to ledger ids; `sources.py verify --evidence` green on parent prose
-- [ ] Synthesis (docs/synthesis.md); commit — **GH repo: drwjkirkpatrick-web/esperanto-research, PRIVATE (agent pushed 2026-10-30, docs/ contains the PM excerpt)**
-- [ ] When 03/05 land: aggregate their URLs mechanically into ledger, re-verify, README counts update, second commit + push
+- [x] research/03 competitor verification (subagent) — 16 footnotes, 16 quotes verbatim-confirmed by parent re-check, 16 competitor extracts saved
+- [x] research/05 science-flags literature check (subagent) — 31 PubMed-backed footnotes; 2 mislabeled years fixed by parent (Scheffler Front Endocrinol 2018; Grimaldi Genes Nutr 2017)
+- [x] Quotes attached to ledger ids; `sources.py verify --evidence` green on parent prose
+- [x] Ledger aggregation — 46 dossier URLs folded in mechanically; ledger = 51 sources
+- [x] Synthesis (docs/synthesis.md); README counts updated
+- [x] Commit #2 + push — **GH repo: drwjkirkpatrick-web/esperanto-research, PRIVATE (agent pushed 2026-10-30, docs/ contains the PM excerpt)**
 
 ## Decisions
 - Subagent dossiers: URL-footnote prose; parent aggregates URLs into ledger mechanically (per fan-out rule).
