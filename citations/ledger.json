@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.datapunk.net",
+      "title": "OPUS23 | ESPERANTO · Datapunk Bioinformatics (platform landing page)",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "A 22,800-taxon knowledge base behind every stool report.",
+          "added": "2026-10-30"
+        },
+        {
+          "text": "390 explained markers, 3,200+ metabolites",
+          "added": "2026-10-30"
+        },
+        {
+          "text": "Drafted by a dedicated large language model in the background; every claim carries a citation you can click.",
+          "added": "2026-10-30"
+        },
+        {
+          "text": "Opie is our literature agent.",
+          "added": "2026-10-30"
+        },
+        {
+          "text": "Pay as you go, with tokens.",
+          "added": "2026-10-30"
+        },
+        {
+          "text": "It does not diagnose, treat or prescribe",
+          "added": "2026-10-30"
+        },
+        {
+          "text": "ABO, secretor (FUT2) and Lewis status",
+          "added": "2026-10-30"
+        },
+        {
+          "text": "389** multi-SNP algorithms",
+          "added": "2026-10-30"
+        },
+        {
+          "text": "4,500+** curated SNPs",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.datapunk.net/opus23",
+      "title": "Datapunk Opus23 Pro (legacy splash)",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Over 200 clinicians worldwide use Opus23",
+          "added": "2026-10-30"
+        },
+        {
+          "text": "Each license is for one client",
+          "added": "2026-10-30"
+        },
+        {
+          "text": "report over 300 potential adverse reactions",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://datapunk.net/tlfd",
+      "title": "Datapunk Open Source Apps",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": 4,
+      "url": "https://www.datapunk.net/opus23/docs/index.pl?WELCOME",
+      "title": "Opus23 Pro Help Docs — Welcome",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "runs over 300 algorithms on multi-snp clusters",
+          "added": "2026-10-30"
+        },
+        {
+          "text": "exceeds HIPAA standards",
+          "added": "2026-10-30"
+        },
+        {
+          "text": "patients at the University of Bridgeport, CT",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://datapunk.net/opus23blog/about_opus23",
+      "title": "Opus23 Developer Blog — About Opus 23",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Center of Excellence in Generative Medicine (COEGM) to analyze and interpret raw genomic data",
+          "added": "2026-10-30"
+        }
+      ]
+    }
+  ]
+}

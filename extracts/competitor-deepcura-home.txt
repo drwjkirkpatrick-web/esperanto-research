@@ -1,0 +1,554 @@
+Checked inNot you?
+
+[![DeepCura](https://www.deepcura.com/resources/img/logo.webp)](https://www.deepcura.com/)
+
+Electronic Health Workforce · Agent-operated, clinician-supervised
+
+Good evening. Who’s checking in?
+
+Pick one. The rest of this page will be about you.
+
+`1` I own or run the practiceOwner, partner or administrator · I sign the checks. `↵``2` I’m an employed clinicianOn staff at a practice · I sign the notes, not the checks. `↵``3` I’m evaluating for a group or a health systemInnovation, operations or IT · I sign the NDA. `↵`
+
+athenahealthwrites backeClinicalWorkswrites backAdvancedMDwrites backOptiMantrawrites backSeveral of theseAnother oneNo EHR yet
+
+Skip this
+
+Search specialties
+
+Family MedicinePsychiatryNurse PractitionerBehavioral HealthInternal MedicinePrimary CareFunctional MedicineIntegrative MedicineGeriatric MedicineUrgent CareEmergency MedicineChiropracticClinical PsychologyPhysician AssistantPhysical TherapyPodiatryDermatologyCardiologyPediatricsOrthopedicsNeurologyDentistryPain ManagementOB/GYNAddiction MedicineDirect Primary CareHormone & Longevity MedicineMedical SpaWeight ManagementSomething else
+
+More specialtiesSkip this
+
+10–25 clinicians26–100 clinicians100+ clinicians
+
+Skip this
+
+Show me everything· [Pricing](https://www.deepcura.com/plans-pricing)· [Log in](https://app.deepcura.com/sign-in) 1 / 3
+
+Good evening. Who’s checking in?
+
+![](https://www.deepcura.com/resources/_homepage/img/hero-liquid-poster.webp)
+
+[AGENT-OPERATED. CLINICIAN-SUPERVISED.\\
+Our AI agents run our own sales calls, onboarding, and configuration — supervised the same way yours will be. See how it works ↓](https://www.deepcura.com/#emily)
+
+# BeyondtheEHR:  theElectronicHealthWorkforce
+
+AI receptionist, scribe, scheduler and inbox — one supervised workforce that **does** your practice’s work, not just records it.
+
+
+[Start Free Trial](https://app.deepcura.com/register) [Watch Demo](https://www.deepcura.com/#demo)
+
+[**6,000+** Clinicians](https://www.deepcura.com/resources/about)[**G2** 4.6/5](https://www.g2.com/products/deepcura-ai/reviews)HIPAA CompliantForbes Business Council Member[CASA Certified](https://www.deepcura.com/resources/pdf/deepcura-casa-certification.pdf)
+
+Featured on
+
+ForbesMDedgeMedscapeNIHNational Institutesof HealthAPAAmerican PsychiatricAssociationHealthcareIT TODAYMarketWatchForbesMDedgeMedscapeNIHNational Institutesof HealthAPAAmerican PsychiatricAssociationHealthcareIT TODAYMarketWatch
+
+A Tuesday in your practice
+
+## Your Tuesday, with the work done — not just recorded.
+
+Six moments you will recognize, in clock order. In each one an agent does the work and you approve what reaches the chart, the outbox and the claim. The EHR keeps the record; you keep the last word.
+
+1. 7:40 AM
+Your MA is at the printer. The first patient is in the parking lot, **finishing intake on a phone-verified link**, consent signed, before the front door is unlocked.
+no clipboard, nothing retyped
+2. 9:15 AM
+You look at the patient, not the screen. **Say it once and it is in the note**, in your template, every value tied to the second of audio it came from. Done when the patient stands up.
+say it once
+3. 12:10 PM
+Front desk at lunch. A new patient calls and gets an answer instead of voicemail. She is **on Thursday’s schedule before her coffee is done**, the intake link already in her texts.
+nobody was asked to press 2
+4. 2:40 PM
+The fax that says “please advise” and nothing else. It lands in **one queue with the emails, the texts and the missed calls**, summarized. Nothing goes out without a confirm.
+one queue, matched to the chart
+5. 4:55 PM
+Three problems and outside labs: that is a 99214, not the 99213 you were about to click. **The coder proposes the level from time and MDM**, shows its reasoning, and waits for you.
+the level you earned, coded
+6. 5:30 PM
+Notes signed, the call booked, the fax answered, the level approved. Wherever a chart, an outbox or a claim was touched, **a person had the last word**. The laptop stays in the bag.
+the lights go off at 5:30
+
+[How the 12:10 call gets answered and booked](https://www.deepcura.com/resources/best-ai-medical-receptionist)
+
+PLATFORM
+
+## Seven AI Agents. One Intelligent Platform.
+
+Every tool a modern practice needs — from patient intake to billing — plus an [AI consultant that sets it all up for you](https://www.deepcura.com/#emily).
+
+All of it, for$129USD / month · per provider
+
+01Ambient Data
+
+## Ambient Data — The Evolution of the Agentic Scribe
+
+- **Say it once — it’s charted forever.** Every value spoken during a visit — labs, vitals, meds, allergies, or any custom metric your practice cares about — becomes coded, trended data on a chart that assembles itself. Every code is checked against current official releases before it files, so a made-up or outdated code structurally can’t get in.
+- **Build custom population panels in one click.** “Every diabetic with a latest A1c above 9” — threshold panels, care-gap recall lists, and cohorts on any metric you track, across your whole panel. Per-patient trends, honest denominators, and CSV export for outreach.
+- **Approve what the AI heard — with proof.** After each visit, review a short list of suggested chart updates, each carrying its verbatim quote and the exact second of audio behind it. Nothing touches the chart without your click.
+- **Missed care becomes a list you can act on.** The abnormal lab that never got its retest, the diabetic with no A1c in six months, the patient told to follow up who never did — each is one question over your whole panel, exported in one click, every entry clinician-approved. Registries and care-gap worklists for clinical practices, recall and reactivation lists for cash-pay — from data nobody had to type, because the chart writes it.
+
+[Read the Ambient Data announcement →](https://www.deepcura.com/ambient-data)
+
+![DeepCura Ambient Data custom population panel — every patient with a latest A1c above 9, shown with a population distribution, per-patient trend sparklines, and CSV export](https://www.deepcura.com/resources/_homepage/img/population-panel.jpg)View full size
+
+02AI Inbox
+
+## Fax, Email, Phone & SMS. One AI Inbox.
+
+- **Tell it “zero my inbox.”** The inbox agent reads all four channels and returns one checklist of everything it proposes — the fax it would file, the exact words it would text each missed caller, the emails it would draft — priced before you commit. Uncheck anything. Nothing runs until you confirm.
+- **Your phone, answered by AI — 24/7.** The built-in AI receptionist answers, books into your DeepCura calendar, triages, texts intake and payment links, and warm-transfers when a human is needed — forward your existing number and it starts working.
+- **Your charts, updated by AI — approved by you.** Faxes, emails, missed calls and texts arrive already read, summarized and matched to the right chart by MRN or phone + date of birth. Emails come with a draft reply waiting; a strong match is one click to file.
+- **Live SMS during phone calls.** When voice capture fails, the AI texts the caller mid-call to type the info instead — the reply injects back into the conversation in seconds.
+- Built to be worked hands-on-keyboard — number keys jump between work states, one key selects, one approves a strong match, Sweep mode walks the queue a card at a time, and ⌘K drops you into the agent from anywhere.
+
+[Compare AI receptionists →](https://www.deepcura.com/resources/best-ai-medical-receptionist)
+
+![DeepCura AI Inbox — unified fax, email, phone, and SMS work queue with an AI agent that proposes bulk actions, plus AI summaries, patient chart matching, AI-drafted replies, and one-click approval](https://www.deepcura.com/resources/img/ai-inbox-screenshot.webp)View full size
+
+03AI Nurse
+
+## Pre-Visit AI That Prepares You
+
+- **Consent forms, signatures and documents before the visit.** Upload your own forms; patients sign on their phone and the AI Nurse files the rest.
+- **Intake that follows the chief complaint.** A conversational pre-chat on a phone-verified link collects the story, medications, allergies and social history in the patient’s own words.
+- **Screeners built in.** PHQ-9, GAD-7 and your own questionnaires, answered before the door opens.
+- **A pre-visit summary waiting when you open the chart** — you walk in informed.
+- The AI receptionist can text the intake link during the call itself.
+
+[Try it free →](https://app.deepcura.com/register)
+
+![A DeepCura AI Nurse intake link as the patient sees it on their phone, shown with a made-up practice: name, email and a phone number that receives a verification code, then the consent form and SMS consent before the visit](https://www.deepcura.com/resources/_homepage/img/nurse-intake-form.webp)The patient’s phone: the intake link, the verification code, then the consentView full size
+
+04Ultra Review
+
+## Ultra Review — Your Whole Chart, Checked Against the Literature
+
+DeepEvidentia answered the question you asked. Ultra Review finds the ones you didn’t.
+
+- **One button reads the entire visit.** The live transcript, the chart, every stored document summary, the timeline items you select and the chart’s newest visit note are read together — then the indexed peer-reviewed literature, clinical guidelines and FDA drug labels (DailyMed) are searched against what was actually said and charted — with a plethora of journal filters to choose from, and your own writing-style preferences.
+- **Every finding filed by risk, every claim cited.** The report sorts what it finds into Critical, High, Medium, Low and Informational, with its sources inline — a finding like a requested medication that interacts with one already on the med list arrives at the top, carrying the drug label behind it.
+- **Deep reasoning that runs on our servers.** Claude Fable 5.1 at maximum effort works through the evidence: about 10 minutes and 25 credits per review. Keep charting, switch patients or close the tab — the Ultra Review tab lights up when the report is ready.
+- **You stay the pilot.** The review never changes the chart. Add the report to the note as a research card in one click; either way it is kept on the practice timeline. Steer the next review with a saved template as its priorities, and set evidence filters — publication year, article types and journals — right where you start it.
+
+[Try it free →](https://app.deepcura.com/register)
+
+![DeepCura Ultra Review open beside a visit note — a sample report filing findings by risk tier (Critical, High) with inline citations to peer-reviewed literature, FDA DailyMed labels and clinical guidelines, and one-click Add to note](https://www.deepcura.com/resources/_homepage/img/ultrareview.webp)View full size
+
+05Team Chat
+
+## Team Chat — HIPAA-Compliant Messaging for Your Whole Practice
+
+Business chat plans list at up to $18 per user a month. Team Chat is included, at $0 per user.
+
+- **Everything your team expects from a chat app.** Channels like #front-desk and #billing, private channels, direct messages, threads, emoji reactions, and ⌘K search across every conversation.
+- **Share files in seconds.** Drag in PDFs, photos, Word and Excel files — up to 10 per message, 25 MB each — and PDFs open right in the chat. Every download goes through a short-lived secure link.
+- **Alerts built for a clinic.** An optional soft chime that never plays while you’re recording a visit, rapid-fire messages grouped into one alert, per-conversation mute and a one-click quiet hour. Desktop alerts name the sender and the channel — never the message.
+- **Your whole team, at no cost.** Front desk, medical assistants, nurses and billers join with a free DeepCura account — only people who use the AI features need a paid seat.
+
+[Try it free →](https://app.deepcura.com/register)
+
+![DeepCura Team Chat, shown with a made-up practice — channels and direct messages with unread counts, a #front-desk conversation with a checklist, a PDF attachment and emoji reactions, and a thread on a Flu Shot Saturday flyer](https://www.deepcura.com/resources/_homepage/img/teamchat.webp)View full size
+
+06AI Marketing
+
+## Your Practice Website — Generated in Seconds
+
+- **Generate a complete practice website from a single form.** Enter your practice name, specialty, location, services, providers, and logo — the AI writes the copy, designs the layout, and ships a publish-ready site in under 60 seconds. No designer, no developer, no $5,000 agency invoice.
+- **Edit by chatting, not by clicking.** Describe the change in plain English — “use blue and gold colors”, “add a photo gallery section”, “emphasize our pediatric focus” — and the AI rewrites the page live. Iterate as many times as you want.
+- **AI-generated medical imagery on demand.** Describe the scene (modern waiting room, provider headshot, clinical hero photo) and the AI generates studio-quality images you can drop into any section — no stock photo licensing fees.
+- Auto-listed on the **DeepCura Clinic Directory** for built-in SEO, with editable meta titles, descriptions, Open Graph images, and embeddable Calendly/booking widgets.
+
+[Build your practice website free →](https://app.deepcura.com/ai-marketing)
+
+![DeepCura AI Marketing builder — left panel with chat-based editing controls, right panel showing a generated cardiology practice website with editorial typography, services, and call-to-action buttons](https://www.deepcura.com/resources/_homepage/img/ai-marketing.webp)View full size
+
+07AI Billing
+
+## Billing Intelligence, Built In
+
+- **The level you earned, with the reasoning shown.** The coder proposes the E&M level from documented time and medical decision making, plus ICD-10 codes and add-on codes like 90833 or 96127 when the note supports them.
+- **You approve every code.** Nothing is billed on the AI’s word alone.
+- **Charges land where you bill.** On AdvancedMD and athenahealth the charge posts to the encounter; on eClinicalWorks it arrives as “Add EM” and “Add CPT” Scribe It lines.
+- **Copays and balances by text.** The AI receptionist texts a Stripe payment link during the call.
+
+[Explore ICD-10 codes →](https://www.deepcura.com/resources/medical-codes)
+
+![The DeepEvidentia E&M reasoning card on a DeepCura note, excerpted: 99214 proposed at moderate MDM with the reasoning spelled out, a check for when 99215 would apply, and the MDM elements met. The visit is a made-up test patient.](https://www.deepcura.com/resources/_homepage/img/cds-em-reasoning.webp)E&M reasoning, excerpted: the level, the reasoning, the higher-code check and the MDM elements metView full size
+
+08EHR Integration
+
+## Works With Your Existing EHR
+
+- **Notes, diagnoses and orders written into the chart** on athenahealth, eClinicalWorks and AdvancedMD; on OptiMantra the note lands in the S, O, A and P fields.
+- **CharmHealth:** the SOAP note saved into the encounter. **Epic:** connects and files the note as a document.
+- **Veradigm:** in certification. Any other EHR: the note is yours to paste, and everything else works the same.
+- **Your schedule, mirrored.** eClinicalWorks, athenahealth and AdvancedMD books sync into DeepCura every fifteen minutes.
+- **Free integration with every plan** — no setup fees.
+
+[See EHR guides →](https://www.deepcura.com/resources/ai-scribe-athenahealth)
+
+![](https://www.deepcura.com/)View full size
+
+AI Receptionist
+
+## Every Call Answered. Every Slot Filled.
+
+It’s 12:10. Your front desk is at lunch. A new patient from the insurance directory calls, gets voicemail, and dials the next name on the list. With the receptionist she is on Thursday’s schedule before her coffee is done.
+
+- **Around the clock**, on a number we provision or your existing line forwarded to it.
+- **Books, checks and cancels in your DeepCura calendar**, which mirrors your EHR’s book every fifteen minutes; busy times on your Google or Outlook calendar are blocked automatically.
+- **Texts the intake link and payment links during the call.** If the caller can’t be heard, it texts them to type it instead.
+- **Warm-transfers to a human** with a whisper only your staff hears, takes a message, and triages emergencies by tier.
+
+[Compare AI receptionists →](https://www.deepcura.com/resources/best-ai-medical-receptionist)
+
+![DeepCura AI Receptionist call log, shown with a made-up practice — completion rate, inbound and outbound volume, and a queue of answered calls tagged scheduling, new patient, refill and billing, each with a recording to inspect](https://www.deepcura.com/resources/_homepage/img/receptionist-calls.webp)View full size
+
+AI Scribe
+
+## Say It Once. It’s in the Note.
+
+In your template, in the fields your specialty actually uses.The note is done when the patient stands up.
+
+- **Real-time transcription with multi-speaker detection**, in 35 language modes — Spanish, Polish, Chinese and code-switching included.
+- **Templates built for your account**: Emily on the setup call, Talk to Template, a sample note, or the Network Template Gallery. No fixed library.
+- **Prior-authorization and referral letters** written from the same visit.
+- **1,000 credits a month per seat**; a standard note is one credit.
+
+[Try it free →](https://app.deepcura.com/register)
+
+![A DeepCura psychiatry note with a made-up patient — the Mental Status Exam as discrete fields and the risk assessment documented on its own](https://www.deepcura.com/resources/img/psychiatry-note-mse-risk.webp)A psychiatry note as DeepCura wrote it · made-up patientView full size
+
+Prechart
+
+## Open the Visit Already Briefed.
+
+- **A brief for any visit on demand**: the last note and the gaps for one credit, the documents on file in the two-credit deep brief.
+- **Your book mirrored** from eClinicalWorks, athenahealth or AdvancedMD every fifteen minutes, plus Google or Outlook.
+- **Unlinked calendar events resolved** to the right chart before the day starts.
+
+[Try it free →](https://app.deepcura.com/register)
+
+![DeepCura Prechart lens — cited AI visit briefs for a mirrored eClinicalWorks schedule, with readiness chips and the Prechart now button](https://www.deepcura.com/resources/img/ecw-prechart-lens.webp)View full size
+
+Letters & Forms
+
+## The Prior-Auth Letter. The Referral. The PDF the School Sent.
+
+- **Prior-authorization and referral letters** drafted from the visit you already had.
+- **PDF forms**: fields detected automatically, filled from the chart, ready to sign.
+- **Tasks routed to the right department** automatically, so nothing waits in your head.
+
+[Try it free →](https://app.deepcura.com/register)
+
+Your Own Seat
+
+## Your Own Account. Nothing to Roll Out. No Team Required.
+
+“You can use DeepCura solo — your own account, nothing to roll out, no team required.” Emily says it on every setup call.
+
+- **Sign up yourself**: a BAA in your name, 1,000 credits a month, no card to start.
+- **When the practice is ready, invite the front desk**: team chat is free for staff who don’t use the AI.
+- **Send the owner the pricing page**: every agent, one price per provider, cheaper per seat as the team grows.
+
+[Start your own account →](https://app.deepcura.com/register)
+
+The Honest Fit
+
+## If Your Clinicians Live in Epic, athenaOne or AdvancedMD, You Already Have a Scribe.
+
+We have had the pilot conversation before, so here it is with the numbers up front.
+
+- **Epic AI Charting, athenaAmbient and AdvancedMD’s AI Clinical Assistant** now ship with those EHRs. The scribe is not the reason to talk to us.
+- **The receptionist, the inbox, the billing and the intake are** — the work the EHR still leaves to your staff.
+- **And a workforce that behaves the same** across every EHR your acquisitions brought with them.
+
+The Pilot
+
+## We Don’t Do Free Pilots. We Do Fast Ones.
+
+PILOT · 10 seats · 90 days · $3,468 prepaid · BAA + onboarding included · no free pilots · RFPs from 25 seats
+
+- **Ten seats at the public tier** ($1,156 a month), ninety days, prepaid. Cancel any time after.
+- **A leadership kickoff, then a hands-on session** with the people who will actually use it.
+- **The security packet is a download**, not an email thread.
+
+[Start 10 seats now](https://app.deepcura.com/settings?tab=billing&plan=monthly&seats=10) [Prepaid 90-day pilot by invoice →](mailto:contact@deepcura.ai?subject=Prepaid%2090-day%20pilot%20%C2%B7%2010%20seats)
+
+Security Packet
+
+## You Have a Security Questionnaire. We Have the Answers as a Download.
+
+- **HIPAA.** A BAA with every customer. PHI encrypted in transit and at rest.
+- **CASA Tier 2**, independently verified by TAC Security — all 14 OWASP-based categories passed. [Certificate (PDF)](https://www.deepcura.com/resources/pdf/deepcura-casa-certification.pdf).
+- **Your data is never used to train models.** Recordings and transcripts stay under your account and can be deleted.
+- **Not SOC 2 certified, and not the legal record** — your EHR keeps that. We say so before you ask.
+
+[Visit the Trust Center →](https://trust.deepcura.com/)
+
+Supervised AI
+
+## AI Whose Supervision Is Structural.
+
+“Healthcare does not need AI that acts unsupervised. It needs AI whose supervision is structural.” — Fernando Cowan, founder
+
+- **Every action an AI staff member takes is an append-only event** on one practice timeline, recorded on behalf of a named person.
+- **Nothing irreversible reaches a patient’s chart without a human’s hand**: the AI stages, your clinician approves.
+- **Every event keeps its lineage back to the cause**, so an auditor can follow a decision to the word.
+
+[Read how the workforce is supervised →](https://www.deepcura.com/electronic-health-workforce)
+
+How to Buy
+
+## Seats, Not Contracts.
+
+- **$129 a month per provider, cheaper per seat as the group grows**: 1–2 seats $129, 3–5 $116, 6–10 $110, 11+ $101. Ten seats: $1,156 a month.
+- **Annual**: $999 per seat.
+- **Staff who don’t use the AI are free.** Invoice for procurement on request.
+
+[See pricing →](https://www.deepcura.com/plans-pricing)
+
+AGENT-OPERATED SOFTWARE
+
+## A Network of AI Agents That Runs the Company
+
+Call DeepCura and an AI receptionist answers, qualifies you, and hands you off to Emily — an AI setup consultant who builds your entire workspace through a voice conversation. When you’re ready, she connects you to another agent that configures your AI receptionist.
+
+1
+
+### Tell Emily About Your Practice
+
+Sign up and start a voice conversation with Emily. She asks about your specialty, workflow, and biggest time drains — just like a real implementation consultant would.
+
+2
+
+### She Builds Your Workspace
+
+Emily creates your clinical templates, configures your AI model, sets up patient intake forms, and connects your EHR — all while you just talk. Everything configured, zero clicks.
+
+3
+
+### Compare AI Engines Side-by-Side
+
+See GPT-5.4, Claude, and Gemini generate the same clinical note from your template — in real time. Pick the one that matches your documentation style. You’re ready.
+
+Setup takes about five minutes on a voice call.
+
+No implementation team, **no implementation invoice** — and a human specialist one call away.
+
+DEMO
+
+## See DeepCura in Action
+
+Watch how practices save 2+ hours per day with AI-powered clinical documentation.
+
+COMPARE
+
+## Why Practices Choose DeepCura
+
+See how DeepCura stacks up against the competition — feature by feature.
+
+| Feature | DeepCura | Competitor A | Competitor B |
+| --- | --- | --- | --- |
+| Pre-Visit |
+| AI Patient Intake | ✓ | ✗ | ✗ |
+| AI Receptionist (Phone) | ✓ | ✗ | ✗ |
+| Mid-Call Link Sharing | ✓ | ✗ | ✗ |
+| Pre-Visit Summary | ✓ | ✗ | Limited |
+| During Visit |
+| AI Medical Scribe | ✓ | ✓ | ✓ |
+| Custom Note Templates | ✓ | Limited | ✓ |
+| 50+ Specialties | ✓ | ✓ | ✓ |
+| Clinical AI Chat (Copilot) | ✓ | ✗ | ✓ |
+| Post-Visit |
+| AI Billing / E&M Coding | ✓ | Basic | Beta |
+| EHR Integration (Native) | ✓ | ✓ | Limited |
+| AI Prior Authorization | ✓ | ✗ | ✗ |
+| AI Referral Letters | ✓ | ✗ | ✗ |
+| AI Tasks & Alerts | ✓ | ✗ | ✗ |
+| AI Inbox (Fax, Email, SMS, Phone) | ✓ | ✗ | ✗ |
+| AI Payment Collection (Stripe) | ✓ | ✗ | ✗ |
+| Platform |
+| AI Setup Consultant (Voice) | ✓ | ✗ | ✗ |
+| Choose AI Engine (GPT, Claude, Gemini) | ✓ | ✗ | ✗ |
+| Team Collaboration | ✓ | Basic | ✓ |
+| Analytics Dashboard & Wellness | ✓ | ✗ | ✗ |
+| Starting Price | $129/mo | $99/mo | Free tier |
+
+[See the full 15-tool comparison ranked by real clinicians →](https://www.deepcura.com/resources/best-ai-medical-scribe-reddit)
+
+INTEGRATIONS
+
+## Works With Your EHR
+
+Native integrations that push notes directly into patient charts — no copy-paste, no extra clicks.
+
+![Epic EHR](https://www.deepcura.com/resources/img/ehr-logos/epic.svg)
+
+![athenahealth EHR](https://www.deepcura.com/resources/img/ehr-logos/athenahealth.svg)
+
+![eClinicalWorks EHR](https://www.deepcura.com/resources/img/ehr-logos/eclinicalworks.svg)
+
+![AdvancedMD EHR](https://www.deepcura.com/resources/img/ehr-logos/advancedmd.svg)
+
+![CharmHealth EHR](https://www.deepcura.com/resources/img/ehr-logos/charmhealth.svg)
+
+![Practice Fusion EHR](https://www.deepcura.com/resources/img/ehr-logos/practicefusion.svg)
+
+![OpenEMR](https://www.deepcura.com/resources/img/ehr-logos/openemr.svg)
+
+![OptiMantra EHR](https://www.deepcura.com/resources/img/ehr-logos/optimantra.svg)
+
+![Veradigm EHR](https://www.deepcura.com/resources/img/ehr-logos/veradigm.svg)
+
+![Epic EHR](https://www.deepcura.com/resources/img/ehr-logos/epic.svg)
+
+![athenahealth EHR](https://www.deepcura.com/resources/img/ehr-logos/athenahealth.svg)
+
+![eClinicalWorks EHR](https://www.deepcura.com/resources/img/ehr-logos/eclinicalworks.svg)
+
+![AdvancedMD EHR](https://www.deepcura.com/resources/img/ehr-logos/advancedmd.svg)
+
+![CharmHealth EHR](https://www.deepcura.com/resources/img/ehr-logos/charmhealth.svg)
+
+![Practice Fusion EHR](https://www.deepcura.com/resources/img/ehr-logos/practicefusion.svg)
+
+![OpenEMR](https://www.deepcura.com/resources/img/ehr-logos/openemr.svg)
+
+![OptiMantra EHR](https://www.deepcura.com/resources/img/ehr-logos/optimantra.svg)
+
+![Veradigm EHR](https://www.deepcura.com/resources/img/ehr-logos/veradigm.svg)
+
+Free integration with every plan
+
+GLOBAL SCALE
+
+## Real Results from Real Practices
+
+2+hrs
+
+Saved per clinician per day
+
+1M+
+
+Clinical encounters generated
+
+6,000+
+
+Active clinicians
+
+7+
+
+Native EHR integrations
+
+TRUST
+
+## Your Duty of Care, Built In
+
+HIPAA Compliant
+
+
+BAA Included
+
+
+256-bit Encryption
+
+
+[CASA Tier 2 Verified](https://www.deepcura.com/resources/pdf/deepcura-casa-certification.pdf)
+
+### Validated in Practice
+
+Used by thousands of clinicians across 50+ specialties. Our AI is trained on real clinical workflows, not synthetic data — so notes are accurate from day one.
+
+### Forbes Business Council Member
+
+DeepCura's founder is a member of the Forbes Business Council, recognized for innovation in healthcare AI technology. [About Forbes Business Council](https://www.forbes.com/councils/forbesbusinesscouncil/)
+
+### Privacy, Without Shortcuts
+
+Your data is never used for model training. All PHI is encrypted at rest and in transit. We sign BAAs with every customer. [Visit our Trust Center](https://trust.deepcura.com/)
+
+### CASA Certified by App Defense Alliance
+
+DeepCura passed a Cloud Application Security Assessment (CASA) Tier 2, independently verified by TAC Security. All 14 OWASP-based security categories — including authentication, data protection, cryptography, and API security — received a passing grade. [View certification](https://www.deepcura.com/resources/pdf/deepcura-casa-certification.pdf)
+
+TESTIMONIALS
+
+## Trusted by Healthcare Professionals
+
+★★★★★
+
+DeepCura AI has cut the amount of time I previously spent typing notes almost in half. The transcription is very accurate and can even pick up on different voices and identify them as different speakers. Information provided by AI can be easily copied or downloaded into patient files. Would highly recommend!
+
+AC
+
+Amanda C.
+
+Veterinarian
+
+[Verified on G2](https://www.g2.com/products/deepcura-ai/reviews)
+
+★★★★★
+
+The ability to record sessions with patients allows us as providers to be that more present with our patients as we know that the content of the conversation will be transcribed and summarized. This ultimately increases quality of clinical care. The more you use it, the more the software feels personalized to the need of the provider.
+
+AM
+
+Annie M.
+
+Licensed Clinical Social Worker
+
+[Verified on G2](https://www.g2.com/products/deepcura-ai/reviews)
+
+★★★★★
+
+DeepCura helped me make my record keeping more enjoyable, efficient and grammatically correct. Combine written notes and voice notes, help set up short messages requesting information, translate and write instructions for your team. It improves communication, saves time and helps write clear ideas in the notes.
+
+TP
+
+TJ P.
+
+Implant Planning Specialist & Consultant
+
+[Verified on G2](https://www.g2.com/products/deepcura-ai/reviews)
+
+Video testimonial
+
+Before I decided on using DeepCura, I did a lot of research, comparing all the apps that were affordable for a small office. And my choice was DeepCura. They are always one step ahead of all the other apps out there.
+
+MS
+
+Mona Shawky, MD
+
+Internist, concierge practice owner
+
+[Watch on YouTube](https://www.youtube.com/watch?v=btbk-BMG0jo)
+
+Video testimonial
+
+I have a one on one conversation with them. We look each other in the eyes. I let them know that I am listening to them. It’s been a massive help for me in my practice.
+
+J
+
+Justin
+
+PMHNP, California
+
+[Watch on YouTube](https://www.youtube.com/watch?v=xkvaubw1NP8)
+
+## Tell Emily About Your Practice. She'll Do the Rest.
+
+Free trial. No credit card required. No setup needed — Emily handles it.
+
+[Start Free Trial](https://app.deepcura.com/register) [☎ Call to Get Onboarded in Seconds](tel:+14155491829 "+1 (415) 549-1829")
+
+Close `Esc`
+
+Drag or scroll to read the whole screen. Close (or Esc) to go back.
+
+We use cookies for analytics and advertising to improve your experience. [Privacy Policy](https://www.deepcura.com/resources/privacy-policy)
+
+Accept AllEssential Only

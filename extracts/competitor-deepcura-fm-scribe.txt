@@ -1,0 +1,424 @@
+Vol. 2026Specialties
+
+The Field Report
+
+# Best AI Scribe for Functional Medicine (2026)
+
+ByFernando CowanUpdated August 16, 202634 min read
+
+Filed underai scribe for functional medicine·best ai scribe for functional medicine·functional medicine ai documentation·IFM matrix ai·ai for functional medicine notes·DUTCH ai·GI-MAP ai·functional medicine ai tools
+
+![Fernando Cowan](https://www.deepcura.com/resources/img/fernando-cowan.webp)
+
+[Fernando Cowan](https://councils.forbes.com/profile/Fernando-Cowan-Founder-DeepCura-AI/3dfbdd06-b487-46e7-a0ed-a2ee3adbf687) Founder & CEO · DeepCura
+
+[Forbes Business Council](https://councils.forbes.com/profile/Fernando-Cowan-Founder-DeepCura-AI/3dfbdd06-b487-46e7-a0ed-a2ee3adbf687)
+
+Live · Now
+
+Go live in _seconds_ — not days
+
+Call our AI onboarding agent · 24/7 · Available now
+
+[+1 (415) 549-1829](tel:+14155491829 "+1 (415) 549-1829")
+
+**Functional medicine clinicians spend 90-120 minutes documenting an initial visit and 30-45 minutes on each follow-up because the documentation product is fundamentally larger than a conventional E&M note: a 60-90 minute initial intake produces a chronological timeline back to gestation, an IFM matrix mapping of antecedents/triggers/mediators across seven biological systems, integration of specialty lab interpretation (DUTCH, GI-MAP, OAT, NutrEval, micronutrient panels, MTHFR/COMT/CBS genomics), and a multi-pillar treatment plan covering nutrition, supplements with brand and dosing specificity, sleep, movement, stress reduction, and relationships.** A general-purpose AI scribe that produces a 12-line SOAP note loses the structural depth that functional medicine documentation requires for both clinical decision-making and patient deliverables (timeline visualizations, matrix maps, supplement protocols printed for the patient).
+
+We ranked 6 AI scribes on the criteria that matter most for functional medicine documentation:
+
+- **IFM Matrix and Timeline support** — does the AI structure findings into the IFM Matrix (Assimilation, Defense and Repair, Energy, Biotransformation and Elimination, Transport, Communication, Structural Integrity) with mental, emotional, and spiritual dimensions, plus a chronological timeline of antecedents/triggers/mediators?
+- **Specialty lab interpretation depth** — does it interpret and integrate DUTCH (Dried Urine Test for Comprehensive Hormones), GI-MAP, OAT (Organic Acids Test), NutrEval, micronutrient panels (Spectracell, Genova ION), Cyrex food sensitivity, MRT, IgG/IgE allergen, and genomics (MTHFR, COMT, CBS, MTRR, GST, CYP)?
+- **Supplement protocol capture with brand and dosing specificity** — does it produce supplement protocols with brand (Pure Encapsulations, Designs for Health, Thorne, Metagenics, Standard Process, Nordic Naturals, Klaire, Apex Energetics), dose, frequency, route, and duration?
+- **Multi-pillar treatment plan documentation** — does it document recommendations across nutrition (specific food plans: AIP, Whole30, Low-FODMAP, ketogenic, Mediterranean, elimination), sleep, movement, stress reduction, mind-body, relationships, and supplement protocols?
+
+ℹ
+
+Info
+
+All products were evaluated in February-April 2026. Pricing reflects publicly available rates. Functional medicine documentation conventions vary across IFM-certified, A4M-certified, naturopathic ND, and self-trained functional medicine practitioners — most off-the-shelf AI scribes require significant template configuration to match functional medicine workflow.
+
+ℹ
+
+Info
+
+**Disclosure & methodology.** This comparison is published by DeepCura, which is included in the ranking. Pricing and feature claims for competitor products reflect publicly available information as of the evaluation period above and may change — verify directly with each vendor before procurement. This article is editorial commentary; it is not medical, legal, billing, or compliance advice. CPT® is a registered trademark of the American Medical Association. DeepCura is not affiliated with, endorsed by, or licensed by the Institute for Functional Medicine (IFM), the American Academy of Anti-Aging Medicine (A4M), Cleveland Clinic Center for Functional Medicine, Mayo Clinic Integrative Medicine, the Andrew Weil Center, or any clinical organization or laboratory referenced. Lab and product names (DUTCH, GI-MAP, OAT, etc.) are trademarks of their respective publishers and are used nominatively for descriptive comparison.
+
+## Why Functional Medicine Needs an AI Scribe
+
+### The Documentation Reality in a Functional Medicine Practice
+
+A functional medicine practice generates documentation that bears little resemblance to a conventional 99213/99214 primary care note. The typical visit cadence and documentation products:
+
+- **Initial 60-90 minute new patient visit** producing a 5-10 page document with chronological timeline (often back to gestation, birth, early childhood illnesses, adolescent hormonal events, adult major life events and stressors), full IFM Matrix mapping (seven biological systems plus mental/emotional/spiritual), antecedent/trigger/mediator analysis, comprehensive lifestyle assessment (nutrition, sleep, movement, stress, relationships), preliminary lab review, and a working diagnosis with proposed advanced lab workup
+- **Follow-up visits at 4-8 week cadence** producing 2-4 page documents with progress tracking on prior protocol, current symptom inventory (often using validated assessments — MSQ Medical Symptoms Questionnaire, IBS-SSS, FSS-7 Fatigue Severity Scale, DASS-21), specialty lab interpretation (newly returned DUTCH, GI-MAP, OAT, NutrEval), and protocol modifications
+- **Lab review consultations** (often telehealth, 30-45 minutes) producing dedicated lab interpretation documents with biomarker trend analysis, pattern recognition (HPA dysregulation pattern, methylation pattern, gut dysbiosis pattern, inflammation pattern, metabolic pattern), and protocol implications
+- **Group medical visits and shared medical appointments** with multi-patient documentation and individual chart entries
+- **Patient-facing handouts and protocol summaries** distinct from the chart documentation — printed supplement protocols with brand/dose/timing, food plan handouts, lifestyle prescription handouts
+
+Across a functional medicine practice running 4-8 patients per day at this depth, the documentation burden is the leading cause of practitioner burnout — and it scales worse than conventional primary care because the required documentation product is fundamentally larger.
+
+### What General-Purpose AI Scribes Miss in Functional Medicine
+
+Most AI medical scribes are built around the 15-minute conventional encounter. Functional medicine documentation breaks general-purpose scribes in specific ways:
+
+- **The IFM Matrix is not a SOAP note.** The Institute for Functional Medicine Matrix organizes findings into seven core biological imbalances: Assimilation (digestion, absorption, microbiota), Defense and Repair (immune, inflammation, infection), Energy (mitochondrial function), Biotransformation and Elimination (toxicity, detoxification), Transport (cardiovascular, lymphatic), Communication (endocrine, neurotransmitter, immune signaling), Structural Integrity (subcellular membranes to musculoskeletal). Plus mental, emotional, and spiritual dimensions. A scribe that produces SOAP cannot produce Matrix-format documentation.
+- **The Functional Medicine Timeline.** A chronological timeline from gestation/birth through current presentation, mapping antecedents (genetic predispositions, in utero exposures), triggers (acute precipitating events — infections, traumas, surgeries, medications, environmental exposures), and mediators (factors perpetuating the dysfunction — chronic stress, ongoing exposures, lifestyle factors). The timeline is a visual document the practitioner shares with the patient. A scribe that produces a 12-line HPI cannot produce a timeline.
+- **Specialty lab interpretation.** DUTCH testing (cortisol awakening response, free cortisol pattern, cortisol metabolism, sex hormone metabolism with 4-OH/2-OH/16-OH estrogen ratios, melatonin, organic acid markers — 8-OHdG, picolinic, kynurenic, pyroglutamate). GI-MAP (commensal flora, opportunistic bacteria, parasites, fungi, H. pylori with virulence factors, occult blood, calprotectin, secretory IgA, anti-gliadin sIgA, elastase, steatocrit, beta-glucuronidase). OAT (oxidative stress markers, mitochondrial function, neurotransmitter metabolites, B-vitamin cofactor markers, gut dysbiosis markers, detoxification markers, oxalate). NutrEval (amino acids, organic acids, fatty acids, oxidative stress, micronutrients). Spectracell or Genova ION micronutrient panels. Cyrex food sensitivity arrays. MRT 170 food panel. IgG and IgE allergy panels. Genomics including MTHFR (C677T, A1298C), COMT (Val158Met), CBS, MTRR, GST, CYP variants. The AI must be capable of interpreting and integrating these results — not just transcribing the patient's verbal description.
+- **Supplement protocols with brand and dose specificity.** Functional medicine supplement protocols are not generic "take a multivitamin." A typical protocol specifies brand (Pure Encapsulations Magnesium Glycinate 240mg, Designs for Health Twice Daily Multi 2 caps BID, Thorne Berberine 1g BID before meals, Metagenics UltraInflamX Plus 360 2 scoops daily, Nordic Naturals Pro Omega 2000 2 caps daily, Klaire Labs Saccharomyces boulardii 5 billion CFU BID, Apex Energetics ResveraSirt-HP 1 cap TID), dose, frequency, route, and duration with periodic reassessment. The AI must produce protocols at this specificity.
+- **Specific food plans.** AIP (Autoimmune Protocol), Whole30, Low-FODMAP, ketogenic, modified Mediterranean, elimination diet (specific foods removed and reintroduction sequence), oxalate-restricted, histamine-restricted, salicylate-restricted, GAPS, SCD, paleo. The AI must select and document the appropriate food plan with implementation specifics.
+- **Lifestyle prescription beyond exercise.** Sleep hygiene specifics (light hygiene with blue-blocking glasses, EMF mitigation, magnesium, sleep timing), stress reduction protocols (HeartMath HRV biofeedback, Wim Hof method, specific yoga and breathwork), movement prescription (Z2 cardio, strength training, vagal tone exercises), mind-body work (EFT tapping, meditation app prescription with specific tracks, journaling prompts), relationship and community prescription. The AI must capture these as discrete documentation elements.
+- **Validated functional medicine assessments.** MSQ (Medical Symptoms Questionnaire), Functional Health Assessment Questionnaire, IBS-SSS, FSS-7, ADHD self-report scale (ASRS), DASS-21, PSS-10 (Perceived Stress Scale), PHQ-9, GAD-7, QEEG/HRV biometrics integration. These assessments are scored and trended across visits.
+- **CPT and E&M coding for functional medicine.** While many functional medicine practices operate cash-pay, those that bill insurance must navigate 99202-99205 (new patient time-based or MDM-based) and 99211-99215 (established) with the additional time complexity of functional medicine visits — typically requiring 99205 (60-74 minutes) or prolonged services 99417 (15-min increments beyond 99205) for initial visits. Cash-pay practices document for medical-legal record and continuity of care, often using Z71 codes (counseling and medical advice) and ICD-10 codes that map to identified functional patterns.
+
+### Cash-Pay vs Insurance-Billed Practice Patterns
+
+Functional medicine practices range from pure cash-pay (most IFM-certified MD/DO practices and naturopathic ND practices) to insurance-accepted (often through DPC or hybrid models). Documentation requirements differ:
+
+- **Cash-pay practice:** The patient is paying for the comprehensive workup directly — typical initial visit ranges from $400-$1,500 for the visit alone, plus $1,500-$4,000 in advanced labs. Documentation must justify the value the patient is receiving — comprehensive timeline, matrix mapping, lab interpretation, multi-pillar protocol. The patient often receives a copy of key sections (timeline, matrix, supplement protocol). The AI scribe must produce both the chart record and the patient deliverable.
+- **Insurance-accepted practice:** Documentation must support 99205 (or higher with prolonged service codes) for initial visits and 99214/99215 for follow-ups, with appropriate ICD-10 codes (often E66.9 obesity, K58 IBS, K76.0 NAFLD, E78.5 dyslipidemia, F33.x recurrent depression, F41.1 generalized anxiety, J45.x asthma, M79.7 fibromyalgia, R53.83 chronic fatigue, G93.3 postviral fatigue syndrome) plus Z-codes for counseling and lifestyle management. The AI scribe must produce E&M-defensible documentation with both functional medicine depth and conventional billing structure.
+
+### Patient Deliverables
+
+Beyond the chart, functional medicine practitioners produce patient-facing deliverables:
+
+- **Personalized timeline visualization** — sometimes a graphical document, sometimes narrative
+- **IFM Matrix map** — completed with the patient's specific findings highlighted
+- **Supplement protocol** — printable with brand/dose/timing/duration and patient instructions
+- **Food plan handout** — specific to the chosen plan with shopping lists, recipe references, and reintroduction schedule
+- **Lifestyle prescription** — sleep, stress, movement, mind-body specifics
+- **Lab report summary** — translated from technical lab language to patient-accessible interpretation
+
+A general-purpose AI scribe that produces only chart documentation forces the practitioner to manually generate these deliverables — which is the second-largest documentation burden after the chart itself.
+
+## Quick Comparison — Top AI Scribes for Functional Medicine
+
+| Rank | Tool | Price | FM-Specific | Specialty Lab Integration | Best For |
+| --- | --- | --- | --- | --- | --- |
+| 1 | **DeepCura** | $129/mo | Custom IFM Matrix + Timeline + supplement protocols | DUTCH/GI-MAP/OAT integration via DeepEvidentia | Best Overall |
+| 2 | **Heidi Health** | Free / $150/mo (billed yearly) | Generic templates, FM-adaptable | Limited | Free tier trial |
+| 3 | **DeepScribe** | Custom (not published) | Customizable templates | Custom builds | Customization |
+| 4 | **Freed AI** | $39–$119/mo | Generic SOAP, manual FM adaptation | Browser scrape | Solo FM practice |
+| 5 | **Suki AI** | Not publicly priced | Voice-first ambient + dictation | Limited | Voice-first |
+| 6 | **Nuance DAX Copilot** | Custom enterprise | Enterprise integrative-friendly | Custom | Integrative enterprise |
+
+For a broader cross-specialty comparison, see our [Best AI Medical Scribes in 2026](https://www.deepcura.com/resources/compare/best-ai-medical-scribes) ranking. For internal medicine and primary care tool selection, see our [best AI scribe for family medicine](https://www.deepcura.com/resources/best-ai-scribe-for-family-medicine) guide.
+
+## What to Look For in a Functional Medicine AI Scribe
+
+Functional medicine documentation is not conventional SOAP. Before choosing a tool, evaluate it against these eight criteria:
+
+**1\. IFM Matrix Mapping.** The AI should structure findings into the seven IFM Matrix biological systems (Assimilation, Defense and Repair, Energy, Biotransformation and Elimination, Transport, Communication, Structural Integrity) plus mental/emotional/spiritual dimensions, with antecedent/trigger/mediator analysis for each identified imbalance.
+
+**2\. Functional Medicine Timeline Generation.** Chronological timeline from gestation/birth through current presentation, capturing genetic predispositions, in utero exposures, early childhood events, adolescent events, adult major life events and exposures, and the temporal relationship to symptom onset.
+
+**3\. Specialty Lab Interpretation Capability.** DUTCH (cortisol awakening response, free cortisol, cortisol metabolism, sex hormone metabolism with 2-OH/4-OH/16-OH estrogen ratios, melatonin, organic acids), GI-MAP, OAT, NutrEval, Spectracell or Genova ION micronutrient panels, Cyrex food sensitivity arrays, MRT 170 food panel, IgG/IgE allergens, MTHFR/COMT/CBS/MTRR/GST/CYP genomics. The AI should both transcribe the practitioner's interpretation and structure the lab results in chart-accessible format.
+
+**4\. Supplement Protocol Capture with Brand Specificity.** Brand-specific protocols (Pure Encapsulations, Designs for Health, Thorne, Metagenics, Standard Process, Nordic Naturals, Klaire Labs, Apex Energetics, Biotics Research, Integrative Therapeutics, NOW Foods, Jarrow, Garden of Life), dose, frequency, route, duration, and reassessment timing.
+
+**5\. Multi-Pillar Treatment Plan.** Documentation across nutrition (specific food plan: AIP, Whole30, Low-FODMAP, ketogenic, Mediterranean, elimination), sleep, movement, stress reduction, mind-body, relationships, supplement protocols, and environmental modifications.
+
+**6\. Patient-Facing Deliverable Generation.** The AI should produce both the chart documentation and the patient-facing deliverables (timeline, matrix map, supplement protocol, food plan, lifestyle prescription) with appropriate language translation between technical chart language and patient-accessible language.
+
+**7\. Validated Assessment Scoring.** MSQ, IBS-SSS, FSS-7, DASS-21, PSS-10, ASRS, PHQ-9, GAD-7, with longitudinal trending across visits.
+
+**8\. EHR and Practice Management Integration.** Integration with functional medicine practice management systems (Practice Better, Heal.me, Cerbo, Living Matrix, Power2Practice, ChARM Health) and conventional EHRs (DrChrono, Athena, Elation) used by integrative practices.
+
+## Detailed Reviews
+
+### 1\. DeepCura — Best Overall for Functional Medicine Documentation
+
+DeepCura is a customizable clinical AI platform that combines ambient scribing, clinical decision support, evidence search, practice automation, and bidirectional EHR integration — $129 per provider per month (or $999/yr) with 1,000 credits a month across every AI agent; a standard note costs 1 credit (3 on premium models, 15 on the deepest reasoning tier). For functional medicine practitioners — IFM-certified MD/DO, naturopathic ND, A4M-trained, integrative MD, and self-trained functional medicine — DeepCura's customizable templates and 1,000 credits per provider per month deliver the strongest fit because functional medicine documentation requires structural depth that no off-the-shelf scribe ships with by default.
+
+For functional medicine clinicians, the key differentiator is template flexibility. DeepCura's custom template builder lets practice leads encode functional medicine-specific templates: an initial 60-90 minute intake template structured around the IFM Matrix (seven biological systems plus mental/emotional/spiritual), Functional Medicine Timeline (gestation through current presentation with antecedent/trigger/mediator analysis), comprehensive lifestyle assessment (nutrition with specific food plan history, sleep timing and quality, movement type and frequency, stress level and stressors, relationships and community, environmental exposures), validated assessment scoring (MSQ, IBS-SSS, DASS-21, PSS-10), preliminary lab review with biomarker pattern recognition, and a working diagnostic impression with proposed advanced lab workup; a follow-up template with prior protocol progress, current symptom inventory, newly returned specialty lab interpretation, and protocol modification with rationale; a lab review consultation template with DUTCH, GI-MAP, OAT, NutrEval, micronutrient panel, food sensitivity, and genomics interpretation by category.
+
+CDS Mode (3 credits per encounter) generates clinical decision support — particularly valuable for working through complex multi-system presentations where multiple functional patterns coexist (HPA dysregulation + gut dysbiosis + methylation impairment + mitochondrial dysfunction), for pediatric functional medicine cases, and for cases involving conventional medication tapers (SSRI, benzodiazepine, PPI, statin, beta-blocker) requiring careful coordination.
+
+**DeepEvidentia** — DeepCura's evidence search engine — pulls from PubMed, Cochrane, IFM textbooks and clinical pearls, A4M references, NDNR (Naturopathic Doctor News and Review), Linus Pauling Institute, NIH Office of Dietary Supplements, Examine.com, and integrative medicine databases. Useful for verifying supplement evidence, food plan rationale, lab interpretation patterns, and conventional-functional medication interaction concerns.
+
+**Strengths:**
+
+- Custom templates per visit type (60-90 min intake, follow-up, lab review consultation, group medical visit, telehealth) with IFM Matrix and Timeline structure
+- Specialty lab interpretation support (DUTCH, GI-MAP, OAT, NutrEval, micronutrient panels, food sensitivity arrays, genomics)
+- Supplement protocol generation with brand specificity and dosing detail
+- Food plan documentation (AIP, Whole30, Low-FODMAP, ketogenic, elimination, GAPS, SCD, paleo)
+- Patient-facing deliverable generation (timeline visualization narrative, matrix map summary, supplement protocol, food plan, lifestyle prescription)
+- Validated assessment scoring (MSQ, IBS-SSS, DASS-21, PSS-10) with trend
+- Multiple AI engines matched to documentation complexity (1-15 credits)
+- 1,000 credits per provider per month (1 credit per standard note)
+- Bidirectional integration with major EHRs and integrative practice management systems via custom field mapping
+
+**Limitations:**
+
+- Custom template builder requires meaningful initial setup (15-25 hours per practice to encode IFM Matrix structure, timeline conventions, and specialty lab interpretation patterns)
+- Native integration with functional medicine-specific PMS (Practice Better, Cerbo, Power2Practice, Living Matrix) requires verifying integration depth — some integrations are bidirectional API, others are clipboard or browser-extension
+- Specialty lab interpretation depth is limited by the underlying language model's training; complex pattern recognition (e.g., classic HPA dysregulation pattern requiring integration of CAR + free cortisol pattern + cortisol metabolism + sex hormone metabolism + DHEA) still benefits from practitioner review
+
+**Pricing:** $129/month per provider — all features included. Free trial available, no credit card required.
+
+**Verdict:** DeepCura is the strongest choice for functional medicine practitioners who need IFM Matrix and Timeline structure, specialty lab interpretation support, brand-specific supplement protocols, and patient-facing deliverable generation at a per-provider price point that scales economically. The flexibility cost is upfront setup time, but the per-provider pricing, 1,000 monthly credits, and bundled CDS/evidence search make it the strongest fit at solo and small group scale.
+
+DeepCura: Customizable AI Scribe for Functional Medicine
+
+IFM Matrix templates, Functional Medicine Timeline generation, DUTCH/GI-MAP/OAT interpretation support, brand-specific supplement protocols, and food plan documentation — $129/mo · 1,000 credits/mo (1 credit per standard note). Start your free trial.
+
+[+1 (415) 549-1829](tel:+14155491829 "+1 (415) 549-1829")
+
+Available 24/7 · Set up in seconds · No credit card required
+
+![DeepCura functional medicine initial visit note with IFM Matrix mapping, timeline, lab interpretation, and brand-specific supplement protocol](https://www.deepcura.com/resources/img/functional-medicine-scribe-note-output.webp)
+
+### 2\. Heidi Health — Best Free Tier for Functional Medicine Trial
+
+Heidi Health offers a usable free tier (limited notes per month) that lets individual functional medicine practitioners test ambient AI documentation at zero cost. Heidi has multi-specialty templates available and adapts to functional medicine workflows with custom configuration. Heidi is particularly popular in Australia, NZ, and the UK where naturopathic and integrative medicine practitioners use the free tier as an entry point.
+
+US functional medicine conventions (IFM Matrix, specific food plans, brand-specific supplement protocols, US specialty labs) require manual configuration on Heidi. PMS integration is limited (clipboard or email) — most functional medicine PMS (Practice Better, Cerbo, Power2Practice) require manual paste rather than native integration.
+
+**Strengths:**
+
+- Free tier (limited notes per month) for zero-cost testing
+- Multi-specialty templates including naturopathic and integrative friendly defaults
+- Strong international community among functional medicine practitioners
+
+**Limitations:**
+
+- IFM Matrix structure requires manual configuration
+- Specialty lab interpretation requires practitioner-driven post-editing
+- Brand-specific supplement protocol formatting requires custom prompts
+- Limited PMS integration with functional medicine practice management systems
+
+**Pricing:** Free tier (limited notes); Clinician plan $150/user/month billed yearly (higher month-to-month); enterprise tier higher.
+
+**Verdict:** Best for individual functional medicine practitioners who want to test ambient AI documentation at zero cost before committing to a paid tool. Read our [Heidi Health review](https://www.deepcura.com/resources/heidi-health-review).
+
+### 3\. DeepScribe — Best for Customizable Functional Medicine Templates
+
+DeepScribe offers customizable AI scribe templates with deeper specialty configuration than off-the-shelf consumer-grade tools. For functional medicine practices with internal template-building resources and willingness to invest in custom configuration, DeepScribe can produce IFM Matrix-structured notes, Functional Medicine Timelines, and specialty lab interpretation integration.
+
+Trade-off is price — DeepScribe uses custom/enterprise pricing (not published), so budget for a quote rather than a list price. DeepScribe also lacks DeepCura's bundled CDS, evidence search via DeepEvidentia, and AI receptionist features that benefit functional medicine intake workflows.
+
+**Pricing:** Custom / enterprise quote — not published.
+
+**Verdict:** Best for functional medicine practices willing to pay a premium for custom-template ambient capture without the broader DeepCura platform features. Read our [DeepScribe review](https://www.deepcura.com/resources/deepscribe-review).
+
+### 4\. Freed AI — Best for Solo Functional Medicine Practice
+
+Freed AI is the most accessible ambient scribe for solo functional medicine practitioners. The product is built around the conventional physician encounter and produces SOAP-format notes by default, but the ambient capture quality is strong and functional medicine practitioners can adapt the output through custom prompt configuration and post-editing.
+
+For a solo functional medicine practitioner running 4-8 patients per day, Freed at $79–$119/month with unlimited notes is one of the most cost-effective ambient scribes on the market. The Premier tier at $119/month ($104 billed annually) adds EHR push (browser-based scrape into the practice PMS) and ICD-10 coding suggestion. IFM Matrix structure, timeline generation, specialty lab interpretation, and brand-specific supplement protocols require manual addition or post-editing.
+
+**Pricing:** $39/month (Starter, 40 notes), $79/month (Core, unlimited), $119/month (Premier, unlimited + EHR push + ICD-10; $104 billed annually).
+
+**Verdict:** Best for solo functional medicine practitioners who want fast ambient capture at the lowest defensible price point and are willing to invest in post-editing for IFM-conventional documentation. Read our [Freed AI review](https://www.deepcura.com/resources/freed-ai-review).
+
+### 5\. Suki AI — Best Voice-First Functional Medicine Tool
+
+Suki AI offers a voice-first ambient and dictation product. For functional medicine practitioners who prefer voice command over passive ambient capture (some functional medicine settings — group medical visits with multiple participants, telehealth with interrupted audio, lab review consultations with the practitioner reading through reports while talking) make voice command more reliable than ambient capture.
+
+Suki's strengths are EHR integration depth (Epic, Cerner, athenahealth — though most functional medicine practices do not run on these EHRs), the voice-first paradigm, and a mature commercial deployment record. Limitations for functional medicine specifically: Suki's primary focus is conventional physician/APP rather than functional medicine templates, and IFM Matrix/Timeline/specialty lab structure requires custom configuration.
+
+**Pricing:** Not published — contact sales.
+
+**Verdict:** Best for functional medicine settings where voice-first dictation fits the workflow better than ambient capture, particularly in integrative practices already using Epic or Cerner.
+
+### 6\. Nuance DAX Copilot — Best for Integrative Medicine Enterprise
+
+Nuance DAX Copilot (Microsoft) is the incumbent enterprise AI scribe with deep Epic and Cerner integration. For integrative medicine departments at academic medical centers and integrated delivery networks (e.g., Cleveland Clinic Center for Functional Medicine, Mayo Clinic Integrative Medicine, Andrew Weil Center), DAX Copilot offers consistent infrastructure across the conventional and integrative clinical team.
+
+Limitations for solo and small functional medicine practices: enterprise-only, multi-year contracts, custom implementation. Most independent functional medicine practices do not have the procurement scale or EHR platform to deploy DAX Copilot.
+
+**Pricing:** Custom enterprise. Multi-year contracts.
+
+**Verdict:** Best for integrative medicine departments at academic medical centers and large integrated delivery networks with Epic or Cerner enterprise infrastructure.
+
+## Head-to-Head — Functional Medicine Documentation Features
+
+| Feature | DeepCura | Heidi | DeepScribe | Freed | Suki | Nuance DAX |
+| --- | --- | --- | --- | --- | --- | --- |
+| IFM Matrix Mapping | ✓ | Custom | ✓ Custom | Manual | Custom | ✓ Enterprise |
+| Functional Medicine Timeline | ✓ | Custom | ✓ Custom | Manual | Custom | ✓ Enterprise |
+| DUTCH / GI-MAP / OAT Interpretation | ✓ | Custom | ✓ Custom | Manual | Custom | ✓ Enterprise |
+| Genomics (MTHFR/COMT/CBS) | ✓ | Custom | ✓ Custom | Manual | Custom | ✓ Enterprise |
+| Brand-Specific Supplement Protocols | ✓ | Custom | ✓ Custom | Manual | Custom | ✓ Enterprise |
+| Specific Food Plans (AIP/W30/LFM/Keto) | ✓ | Custom | ✓ Custom | Manual | Custom | ✓ Enterprise |
+| Validated Assessments (MSQ/DASS-21) | ✓ | Custom | ✓ Custom | Manual | Custom | ✓ Enterprise |
+| Patient-Facing Deliverables | ✓ | Limited | ✓ Custom | Manual | Limited | Limited |
+| Multi-Pillar Lifestyle Prescription | ✓ | Custom | ✓ Custom | Manual | Custom | ✓ Enterprise |
+| Cash-Pay Note Format | ✓ | Custom | ✓ Custom | Generic | Generic | ✓ Enterprise |
+| AI Receptionist (intake) | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ |
+| Clinical Decision Support | ✓ (CDS Mode) | ✗ | Limited | ✗ | ✗ | Limited |
+| EHR / FM PMS Bidirectional | athenahealth, eCW, AdvancedMD, OptiMantra, Epic, DrChrono, CharmHealth, Cerner + custom | Limited | Custom builds | Browser scrape | Epic/Cerner/athena | Epic/Cerner deep |
+| Price | $129/mo all features | Free / $150/mo (billed yearly) | Custom (not published) | $39–$119/mo | Not publicly priced | Enterprise custom |
+
+## Functional Medicine Workflow with DeepCura
+
+DeepCura's tiered credit system lets functional medicine practitioners match AI resources to documentation complexity — fast for follow-ups, deeper for initial intakes and lab reviews.
+
+### Routine Follow-Up (1 Credit) — 30-45 Minute Established Patient
+
+For 30-45 minute established patient follow-up — prior protocol progress assessment, current symptom inventory, validated assessment re-scoring (MSQ, IBS-SSS, DASS-21), newly returned lab brief integration, and protocol adjustment — the 1-credit model generates a complete functional medicine follow-up note in under 60 seconds. Speed-optimized for the practitioner running 6-8 follow-ups per day where efficient documentation completion preserves cognitive bandwidth for clinical decision-making.
+
+### Lab Review and Protocol Modification (3 Credits CDS) — Specialty Lab Interpretation Visits
+
+For dedicated 30-45 minute lab review consultations — DUTCH interpretation with CAR pattern, free cortisol pattern, cortisol metabolism, sex hormone metabolism with estrogen ratios, melatonin, and organic acids; GI-MAP interpretation with commensal flora, opportunistic organisms, parasites, fungi, H. pylori virulence factors, secretory IgA, calprotectin, and elastase; OAT interpretation with mitochondrial markers, neurotransmitter metabolites, B-vitamin cofactor markers, gut dysbiosis markers, detoxification markers, and oxalate; protocol modification with rationale — CDS Mode generates the structured lab interpretation document and protocol modification reasoning.
+
+### Initial 60-90 Minute Intake (15 Credits) — Comprehensive New Patient Visit
+
+For comprehensive 60-90 minute new patient intakes with full Functional Medicine Timeline construction, IFM Matrix mapping across all seven biological systems plus mental/emotional/spiritual dimensions, comprehensive lifestyle assessment, validated assessment baseline scoring, preliminary lab review, working diagnostic impression with proposed advanced workup, and patient-facing deliverable generation (timeline narrative, matrix summary, initial protocol) — the maximum-depth model produces the comprehensive narrative that supports both the chart and the patient deliverable.
+
+From 60-Minute Intake to Complete Documentation in Real Time
+
+DeepCura templates for IFM intake, follow-up, lab review, and patient deliverables with Matrix mapping, Timeline generation, DUTCH/GI-MAP/OAT interpretation, and brand-specific supplement protocols — $129/mo. Start your free trial.
+
+[+1 (415) 549-1829](tel:+14155491829 "+1 (415) 549-1829")
+
+Available 24/7 · Set up in seconds · No credit card required
+
+## Clinical Decision Support and Evidence Search for Functional Medicine
+
+⚠
+
+Warning
+
+CDS Mode outputs are documentation-aid suggestions for clinician review. They are not diagnoses, treatment recommendations, or substitutes for clinical judgment. The clinician retains full responsibility for diagnosis, workup, and treatment decisions. Dietary supplement and botanical references are documentation aids only and do not constitute disease-treatment claims; supplements are regulated as foods under DSHEA and are not intended to diagnose, treat, cure, or prevent any disease. DeepCura is not an FDA-cleared medical device.
+
+### CDS Mode — Decision Support for Multi-System Functional Patterns
+
+Functional medicine cases often present with multiple coexisting functional patterns that interact (HPA axis dysregulation + gut dysbiosis + methylation impairment + mitochondrial dysfunction + chronic infection + heavy metal toxicity + hormonal imbalance). CDS Mode provides decision support for:
+
+- **Pattern recognition across functional patterns** — when do biomarkers suggest HPA dysregulation as the primary driver vs gut dysbiosis as the primary driver vs methylation impairment? When do they coexist with one driving the other?
+- **Sequence-of-treatment reasoning** — gut-first protocols (5R: Remove, Replace, Reinoculate, Repair, Rebalance) before adrenal protocols, or simultaneous? Methylation support before or after detoxification support? Mitochondrial repletion timing relative to hormone balancing?
+- **Conventional-functional medication interaction concerns** — patient on SSRI starting 5-HTP (serotonin syndrome risk), patient on warfarin starting omega-3 or vitamin K-affecting supplements, patient on metformin with B12 depletion, patient on PPI with mineral malabsorption
+- **Pediatric functional medicine** — different dosing, different supplement forms, different food plan adaptations for children
+- **Pregnancy and lactation considerations** — supplement safety, food plan modification, lab testing modification
+
+For a 42-year-old woman with chronic fatigue, anxiety, weight gain despite calorie restriction, hair thinning, and brain fog, CDS Mode flags differential considerations: HPA dysregulation (likely; consider DUTCH for cortisol pattern), subclinical hypothyroidism (consider TSH, free T3, free T4, reverse T3, anti-TPO, anti-TG), iron deficiency or ferritin insufficiency (consider iron studies, ferritin), B12 or folate insufficiency (consider methylmalonic acid, homocysteine), gut dysbiosis with fatigue downstream (consider GI-MAP), perimenopause (consider DUTCH cycle mapping, FSH, estradiol). Differential supports both clinical reasoning documentation and patient communication.
+
+### DeepEvidentia — Evidence at the Functional Medicine Visit
+
+DeepEvidentia provides real-time access to PubMed, Cochrane, IFM textbooks and clinical pearls, A4M references, NDNR, Linus Pauling Institute, NIH Office of Dietary Supplements, Examine.com, and integrative medicine evidence databases.
+
+Example queries functional medicine practitioners actually ask:
+
+- "Berberine evidence for type 2 diabetes — head-to-head vs metformin" — returns the Yin et al. 2008 trial showing berberine non-inferiority to metformin and subsequent confirmatory studies
+- "Saccharomyces boulardii in C. difficile recurrence prevention" — returns the Cochrane review and RCT evidence
+- "DUTCH cortisol awakening response interpretation — flat vs spiky vs blunted" — returns interpretation frameworks and pattern descriptions
+- "MTHFR C677T heterozygous vs homozygous — methylation support recommendations" — returns evidence-based supplementation guidelines
+- "Oxalate restriction in stone formers — duration and reintroduction" — returns oxalate-stone evidence and dietary modification studies
+- "Low-FODMAP diet duration before reintroduction in IBS" — returns Monash University reintroduction protocol evidence
+- "Berberine and conventional medication interaction concerns" — returns drug-herb interaction database content
+
+For practitioners maintaining current evidence in clinical decision-making across the integrative medicine literature, evidence access at the visit reduces friction in staying current and supports shared decision-making with patients.
+
+## Pricing Comparison
+
+| Tool | Monthly | Notes included | FM-Specific | Best Plan |
+| --- | --- | --- | --- | --- |
+| **DeepCura** | $129/mo | Up to ~1,000 standard notes/mo (credits) | ✓ Custom IFM Matrix/Timeline/Lab | Single plan, all features |
+| **Heidi Health** | Free / $150/mo (billed yearly) | Free tier limited | Custom | Free or Clinician |
+| **DeepScribe** | Custom (not published) | Unlimited | ✓ Custom | Custom-built tier |
+| **Freed AI** | $39–$119/mo | 40-unlimited | Manual | Premier ($119; $104 billed annually) |
+| **Suki AI** | Not publicly priced | Unlimited | Custom | Enterprise contract |
+| **Nuance DAX Copilot** | Enterprise custom | Enterprise | ✓ Enterprise | Enterprise contract |
+
+## See DeepCura in Action
+
+Watch how DeepCura handles the full functional medicine workflow — IFM Matrix mapping, Functional Medicine Timeline generation, DUTCH/GI-MAP/OAT lab interpretation, brand-specific supplement protocols, food plan documentation, validated assessment scoring, and patient-facing deliverable generation.
+
+![DeepCura AI Medical Scribe Platform Demo — Functional Medicine Documentation, IFM Matrix, Timeline, Specialty Lab Interpretation, and Supplement Protocols](https://i.ytimg.com/vi/W4qy-tCpV-E/maxresdefault.jpg)
+
+## Frequently Asked Questions
+
+### What is the best AI scribe for functional medicine practitioners?
+
+DeepCura is the strongest cross-functional choice for functional medicine practitioners — IFM-certified MD/DO, naturopathic ND, A4M-trained, integrative MD, and self-trained functional medicine — who need IFM Matrix mapping, Functional Medicine Timeline generation, specialty lab interpretation (DUTCH, GI-MAP, OAT, NutrEval, micronutrient panels, food sensitivity, genomics), brand-specific supplement protocols, and patient-facing deliverable generation. For practitioners testing zero-cost, Heidi Health's free tier is a viable starting point. For integrative departments at academic medical centers, Nuance DAX Copilot is the enterprise path.
+
+### Do AI scribes support the IFM Matrix and Functional Medicine Timeline?
+
+DeepCura supports custom IFM Matrix templates structured around the seven biological systems (Assimilation, Defense and Repair, Energy, Biotransformation and Elimination, Transport, Communication, Structural Integrity) plus mental/emotional/spiritual dimensions, and Functional Medicine Timeline generation from gestation through current presentation with antecedent/trigger/mediator analysis. DeepScribe supports custom IFM templates. Off-the-shelf consumer scribes (Freed, Heidi, Suki) require manual configuration.
+
+### Can AI scribes interpret DUTCH, GI-MAP, OAT, and other specialty lab tests?
+
+DeepCura supports custom templates for DUTCH (cortisol awakening response, free cortisol, cortisol metabolism, sex hormone metabolism with 4-OH/2-OH/16-OH estrogen ratios, melatonin, organic acids), GI-MAP (commensal flora, opportunistic bacteria, parasites, fungi, H. pylori with virulence factors, secretory IgA, calprotectin), OAT (mitochondrial function, neurotransmitter metabolites, B-vitamin cofactors, gut dysbiosis markers, detoxification, oxalate), NutrEval, micronutrient panels (Spectracell, Genova ION), Cyrex food sensitivity, MRT, and genomics (MTHFR, COMT, CBS, MTRR, GST, CYP) interpretation. DeepEvidentia provides supporting evidence for interpretation. Other tools require practitioner-driven post-editing.
+
+### Do AI scribes produce supplement protocols with brand and dose specificity?
+
+DeepCura's templates can be configured to produce supplement protocols with brand specificity (Pure Encapsulations, Designs for Health, Thorne, Metagenics, Standard Process, Nordic Naturals, Klaire Labs, Apex Energetics, Biotics Research, Integrative Therapeutics), dose, frequency, route, duration, and reassessment timing. DeepScribe supports custom protocol formatting. Consumer scribes produce generic supplement language requiring manual addition of brand and dose specifics.
+
+### Can AI scribes document specific food plans (AIP, Whole30, Low-FODMAP, ketogenic, elimination)?
+
+DeepCura's templates can be configured to document AIP (Autoimmune Protocol), Whole30, Low-FODMAP with reintroduction sequence, ketogenic with macronutrient ratios, modified Mediterranean, elimination diet with specific foods removed and reintroduction sequence, oxalate-restricted, histamine-restricted, GAPS, SCD, and paleo with implementation specifics. Other tools require manual food plan documentation.
+
+### Do AI scribes integrate with functional medicine practice management systems (Practice Better, Cerbo, Power2Practice, Living Matrix)?
+
+DeepCura integrates with major functional medicine PMS via custom field mapping; depth varies by PMS. Practice Better, Cerbo, and Power2Practice integrations are typically API-based or browser-extension. Practices should verify integration depth during evaluation since functional medicine PMS integration is less mature than conventional EHR integration across the AI scribe market.
+
+### Are AI scribes appropriate for cash-pay functional medicine practices?
+
+Yes — DeepCura's documentation supports both cash-pay practices (where the documentation is for medical-legal record, continuity of care, and patient deliverables) and insurance-billed practices (where documentation must support 99205, 99214/99215, or 99417 prolonged services). Cash-pay practices benefit particularly from the patient-facing deliverable generation since the patient often expects timeline, matrix map, supplement protocol, and lifestyle prescription as part of the visit value.
+
+### How much do AI scribes for functional medicine cost?
+
+Solo-friendly options run $39–$150/month per practitioner (Freed $39–$119, DeepCura $129, Heidi Clinician $150). DeepScribe and Suki do not publish pricing (custom quotes). Nuance DAX Copilot is custom enterprise. For solo and small group functional medicine practices, the $79–$130/month accessible-price tier offers the best feature-to-cost ratio with DeepCura providing extensive functional medicine-specific template support at that price point.
+
+## Final Verdict
+
+For functional medicine practitioners, the choice comes down to four profiles:
+
+**Best overall:** [DeepCura](https://www.deepcura.com/resources/ai-medical-scribe) at $129/month — customizable IFM Matrix templates, Functional Medicine Timeline generation, specialty lab interpretation (DUTCH, GI-MAP, OAT, NutrEval, micronutrient panels, Cyrex, MRT, genomics), brand-specific supplement protocols (Pure Encapsulations, Designs for Health, Thorne, Metagenics, Nordic Naturals, Klaire, Apex Energetics), specific food plan documentation (AIP, Whole30, Low-FODMAP, ketogenic, elimination, GAPS, SCD), validated assessment scoring (MSQ, IBS-SSS, DASS-21, PSS-10), and patient-facing deliverable generation. The strongest choice for functional medicine practitioners who need IFM-conventional documentation depth at a per-provider price point that scales economically.
+
+**Best for free-tier trial:** [Heidi Health](https://www.deepcura.com/resources/heidi-health-review) — free tier (limited notes) lets individual functional medicine practitioners test ambient AI documentation at zero cost before committing to a paid tool.
+
+**Best for solo FM at lowest price:** [Freed AI](https://www.deepcura.com/resources/freed-ai-review) Premier at $119/month ($104 billed annually) — strong ambient capture quality with browser-based EHR push, suitable for solo functional medicine practitioners willing to invest in post-editing for IFM-conventional documentation. Lacks native IFM Matrix or specialty lab interpretation but the ambient capture core is strong.
+
+**Best for integrative enterprise:** Nuance DAX Copilot — for integrative medicine departments at academic medical centers and large integrated delivery networks with Epic or Cerner enterprise infrastructure (Cleveland Clinic Center for Functional Medicine, Mayo Clinic Integrative Medicine, Andrew Weil Center for Integrative Medicine).
+
+For a broader cross-specialty comparison, see our [Best AI Medical Scribes in 2026](https://www.deepcura.com/resources/compare/best-ai-medical-scribes) ranking. For primary care and family medicine tool selection, see our [best AI scribe for family medicine](https://www.deepcura.com/resources/best-ai-scribe-for-family-medicine) and [best AI scribe for medical professionals](https://www.deepcura.com/resources/best-ai-scribe-for-medical-professionals) guides. For practices needing after-hours intake and scheduling automation, see our [Best AI Medical Receptionist](https://www.deepcura.com/resources/best-ai-medical-receptionist) guide. If you are evaluating PMS alongside the scribe decision, see our [best EMR for small practices](https://www.deepcura.com/resources/best-emr-for-small-practices) ranking.
+
+## References
+
+\[1\] Institute for Functional Medicine, "The Functional Medicine Matrix Model and Timeline," IFM. [ifm.org/functional-medicine](https://www.ifm.org/functional-medicine/)
+
+\[2\] Jones DS, Quinn S, "Textbook of Functional Medicine," The Institute for Functional Medicine, 2010.
+
+\[3\] Bland JS, "The Disease Delusion: Conquering the Causes of Chronic Illness for a Healthier, Longer, and Happier Life," HarperWave, 2014.
+
+\[4\] American Academy of Anti-Aging Medicine (A4M), "A4M Fellowship Program in Metabolic, Nutritional, and Functional Medicine," A4M. [a4m.com](https://www.a4m.com/)
+
+\[5\] Precision Analytical, "DUTCH Test Clinical Reference Guide," Precision Analytical. [dutchtest.com](https://dutchtest.com/)
+
+\[6\] Diagnostic Solutions Laboratory, "GI-MAP Interpretive Guide," DSL. [diagnosticsolutionslab.com/gi-map](https://www.diagnosticsolutionslab.com/tests/gi-map)
+
+\[7\] Mosaic Diagnostics (formerly Great Plains Laboratory), "OAT Organic Acids Test Interpretive Guide," Mosaic Diagnostics. [mosaicdx.com](https://www.mosaicdx.com/)
+
+\[8\] Genova Diagnostics, "NutrEval and ION Profile Interpretation Guides," Genova. [gdx.net](https://www.gdx.net/)
+
+\[9\] Linus Pauling Institute, "Micronutrient Information Center," Oregon State University. [lpi.oregonstate.edu/mic](https://lpi.oregonstate.edu/mic)
+
+\[10\] National Institutes of Health Office of Dietary Supplements, "Dietary Supplement Fact Sheets," NIH ODS. [ods.od.nih.gov/factsheets](https://ods.od.nih.gov/factsheets/)
+
+\[11\] Yin J, Xing H, Ye J, "Efficacy of berberine in patients with type 2 diabetes mellitus," Metabolism, 57(5), 712-717, 2008. [pubmed.ncbi.nlm.nih.gov/18442638](https://pubmed.ncbi.nlm.nih.gov/18442638/)
+
+Further Reading
+
+## More from _Specialties_
+
+[The Archive →](https://www.deepcura.com/resources)
+
+[№ 01Specialties\\
+**Best AI Scribe for Chiropractors (2026) — 6 Tools Ranked** \\
+Compare 6 AI scribes for chiropractors. Ranked by PART capture, CMT 98940-98943 coding, AT modifier handling, outcome measures, and EHR integration.\\
+Continue Reading→](https://www.deepcura.com/resources/best-ai-scribe-for-chiropractors)
+
+[№ 02Specialties\\
+**Best AI Scribe for Internal Medicine (2026) — 6 Tools Ranked** \\
+Compare 6 AI scribes for internal medicine. Ranked by hospitalist H&P depth, GDMT documentation, Beers Criteria handling, and EHR integration.\\
+Continue Reading→](https://www.deepcura.com/resources/best-ai-scribe-for-internal-medicine)
+
+[№ 03Specialties\\
+**Best AI Scribe for Medical Professionals (2026)** \\
+Compare 6 AI scribes for NPs, PAs, RNs, MAs, and the full clinical care team. Ranked by scope-of-practice support, incident-to billing, and EHR integration.\\
+Continue Reading→](https://www.deepcura.com/resources/best-ai-scribe-for-medical-professionals)
+
+We use cookies for analytics and advertising to improve your experience. [Privacy Policy](https://www.deepcura.com/resources/privacy-policy)
+
+Accept AllEssential Only

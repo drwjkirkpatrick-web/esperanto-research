@@ -1,0 +1,201 @@
+Open accessibility menu
+
+[PCA](https://www.metabolon.com/bioinformatics-software/pca/)
+
+[PLS-DA](https://www.metabolon.com/bioinformatics-software/pls-da/)
+
+[Volcano](https://www.metabolon.com/bioinformatics-software/volcano-plot/)
+
+[Clustering](https://www.metabolon.com/bioinformatics-software/clustering-analysis/)
+
+[Pathways](https://www.metabolon.com/bioinformatics-software/pathway-analysis/)
+
+[Biomarker Lenses®](https://www.metabolon.com/bioinformatics-software/biomarker-lenses/)
+
+[Statistics](https://www.metabolon.com/bioinformatics-software/statistics/)
+
+[Multiomics](https://www.metabolon.com/bioinformatics-software/multiomics-software/)
+
+[Microbiome](https://www.metabolon.com/bioinformatics-software/microbiome-software/)
+
+[Splash & Ripple](https://www.metabolon.com/bioinformatics-software/splash-and-ripple/)
+
+PCAPLS-DAVolcanoClusteringPathwaysBiomarker Lenses®StatisticsMultiomicsMicrobiomeSplash & Ripple
+
+![diablo analysis screen](https://www.metabolon.com/wp-content/uploads/2026/10/bioinformatics-microbiome-software-tool-diablo-analysis.webp)
+
+Platform Feature
+
+# Microbiome Analysis Software
+
+Unify metagenomic, metabolomic, and phenotypic data within a codeless, accessible platform that simplifies complex analyses without compromising flexibility or analytical depth and rigor.
+
+[Talk to an expert](https://www.metabolon.com/bioinformatics-software/microbiome-software/#contact) [Back to the Platform](https://www.metabolon.com/bioinformatics-software/)
+
+Your browser does not support the video tag.
+
+[Download the video instead.](https://www.metabolon.com/wp-content/uploads/2026/10/bioinformatics-background-01-resized-1.mp4)
+
+## Key Features
+
+Each feature within the Microbiome Analysis Tool performs a unique and essential function, and they work together in complementarity to provide a complete analysis solution that accelerates the path to microbiome insights. The platform is user-friendly and does not require coding skills, making advanced metagenomics analysis fast and accessible to a broad scientific community.
+
+- [Quality Control](https://www.metabolon.com/bioinformatics-software/microbiome-software/#panel-1-1-)
+- [Community Profiles](https://www.metabolon.com/bioinformatics-software/microbiome-software/#panel-1-2-)
+- [Integrated Analysis](https://www.metabolon.com/bioinformatics-software/microbiome-software/#panel-1-3-)
+
+Quality Control  Community Profiles  Integrated Analysis
+
+![https://www.metabolon.com/wp-content/uploads/2026/10/bioinformatics-microbiome-software-tool-quality-control.png](https://www.metabolon.com/wp-content/uploads/2026/10/bioinformatics-microbiome-software-tool-quality-control.png)
+
+Amplicon and shotgun sequencing data output is complex, consisting of large volumes of raw sequencing reads in FASTQ format, which require extensive bioinformatics processing to extract meaningful insights that maintain fidelity to the original sample contents. Metabolon’s metagenomics data processing pipeline exhaustively evaluates sequence data quality, and the results of these analyses are provided to clients in an interactive QC report. Rigorous quality evaluation ensures that clients can move forward with data analysis and interpretation with confidence in the quality of the input data.
+
+![https://www.metabolon.com/wp-content/uploads/2026/10/bioinformatics-microbiome-software-tool-community-profile.webp](https://www.metabolon.com/wp-content/uploads/2026/10/bioinformatics-microbiome-software-tool-community-profile.webp)
+
+Every analysis tool within the software serves a distinct and essential function, complementing the others to deliver a complete analysis solution that accelerates the path to insights. Within the Microbiome Analysis Tool, you can access a suite of visualization and statistical analyses:
+
+- **Alpha Diversity** assesses the microbial diversity of a single sample to reveal differences in microbial richness and evenness between sample groups.
+- **Beta Diversity** compares differences in microbial composition between samples, highlighting how overall community structure varies across sample groups based on shared and unique microbial taxa.
+- **Cladograms** support comparing taxonomic profiles between sample groups and identifying areas in each group where differences begin to emerge.
+- **Relative Bacterial Abundance Stacked Bar Charts** show how common or rare different microbes are in each sample group, making it easier to spot bacterial abundance patterns tied to study variables.
+- **Hierarchical Clustering** groups samples with similar microbial profiles, which helps reveal microbes that consistently show different levels between sample groups.
+- **Analysis of Composition of Microbiomes (ANCOM) Volcano Plots** highlight specific microbes that differ in abundance between two sample groups.
+- **Taxon Set Enrichment** provides more biological context by connecting changes in microbes to their possible biological roles or functions.
+
+For each analysis, researchers can explore their data by adjusting sample groupings, taxonomic levels, statistical methods, and a flexible set of visualization options, all accessible through the intuitive user interface.
+
+Together, these techniques offer a comprehensive but accessible exploration of microbial communities. By revealing both community structure and functional potential across biological contexts, they enable researchers to uncover deeper insights into the microbiome’s influence on health and disease.
+
+![https://www.metabolon.com/wp-content/uploads/2026/10/bioinformatics-microbiome-software-tool-diablo-analysis.webp](https://www.metabolon.com/wp-content/uploads/2026/10/bioinformatics-microbiome-software-tool-diablo-analysis.webp)
+
+Understanding the biological drivers of phenotypic differences requires more than single-omics analysis. Metabolon’s Integrated Bioinformatics Platform (IBP) unifies metagenomic and metabolomic data through a suite of powerful and intuitive tools designed to uncover multidimensional insights. At the core of this capability is DIABLO, a supervised multiomics integration method that identifies features such as microbial taxa and metabolites that work in concert to distinguish between study groups.
+
+DIABLO results are visualized across interactive screens where researchers can examine sample separation, investigate the features most responsible for group differences, and assess model performance. To further highlight cross-omics relationships, Circos plots visualize associations between microbial and metabolic features, helping to reveal connections that drive biological variation.
+
+Beyond modeling, Correlation Integrative Analyses add depth by quantifying direct relationships between individual microbes and metabolites to offer insights that may be missed through single feature comparisons alone.
+
+By combining statistical modeling, hierarchical clustering, and dimensionality reduction techniques, Metabolon’s integrative analytics provide a biologically meaningful view of microbiome dynamics. This approach enables researchers to uncover potential mechanisms, refine hypotheses, and identify candidate biomarkers that differentiate groups with greater clarity and confidence.
+
+## Microbiome Analysis Software Overview
+
+Microbiome research is advancing at an extraordinary pace, reshaping how we understand the intricate relationships between microbial communities and the systems they influence. From the human body to soils and natural ecosystems, these networks are emerging as critical drivers of health and environmental stability. While recent progress has deepened our understanding of microbial ecosystems, uncovering causal insights from microbiome data remains one of the field’s most persistent challenges.
+
+[Metagenomics](https://www.metabolon.com/services/metagenomic-sequencing/) tells us what microbes are there, and metabolomics tells us what they’re doing with the host, making these an ideal pairing for understanding the microbiome. When these two perspectives are combined, they offer a synergistic view into how microbial communities shape biological outcomes and, importantly, why certain phenotypes emerge. However, the ability to efficiently and clearly explore molecular activity through metabolomics and trace it to specific microbial contributors through metagenomics is challenging and requires bioinformatics solutions purpose-built to navigate this complexity with precision.
+
+Meaningful discovery happens when quality data, careful interpretation, and intuitive technology come together to reveal clear insights from complexity. Providing this capability in a no-code, customizable, and intuitive informatics platform democratizes the accessibility of microbiome insights to a broad scientific community.
+
+## The Microbiome Analysis Software within Metabolon’s Integrated Bioinformatics Platform
+
+[Metabolon’s Integrated Bioinformatics Platform (IBP)](https://www.metabolon.com/bioinformatics-software/) brings together best-in-class tools for microbiome research, combining intuitive usability with scientific rigor to help researchers move efficiently from raw data to meaningful biological insights. The process begins with a robust, multi-step quality control pipeline that evaluates sequencing integrity at critical stages, ensuring downstream analyses are built on a reliable foundation. Once quality is confirmed, users can explore a tailored software suite of metagenomic profiling tools designed to reveal both compositional and functional characteristics of microbial communities across sample groups.
+
+The Microbiome Analysis Tool unifies metagenomic, metabolomic, and phenotypic data within a codeless, accessible platform that simplifies complex analyses without compromising flexibility or analytical depth and rigor. From raw sequencing data to rich visualizations, the platform performs end-to-end processing without requiring manual intervention or custom engineering.
+
+With this foundation in place, researchers are empowered from the outset to uncover key microbial features that advance their research, identify community-level patterns, and investigate functional variation across taxonomic levels with confidence and ease. This lets researchers do what they do best: form hypotheses and let the data lead them to biological conclusions without sacrificing time and resources for data engineering and routine statistical procedures.
+
+As multiomic approaches gain traction in microbiome research, few offer the seamless multiomics integration that defines Metabolon’s Microbiome Analysis Tool. By aligning metagenomic data with metabolomic profiles and phenotype information, the software makes it possible to investigate the biological impact of microbial shifts in a comprehensive and interpretable way. Interactive dashboards help identify which features are driving group-level differences, all while maintaining critical biological context throughout the analysis.
+
+This integrated, multi-layered view enables a more complete understanding of how microbial activity influences host biology. Whether the goal is mechanistic discovery or translational application, Metabolon’s Microbiome Analysis Tool offers the analytical power and user-friendly experience needed to translate microbiome data into actionable knowledge.
+
+## Why Use Metabolon’s Microbiome Analysis Software?
+
+Metabolon’s Microbiome Analysis Tool offers a distinct advantage by integrating metabolomics and metagenomics within a user-friendly, code-free platform. End-to-end data processing is fully automated, providing ready-to-interpret results that help researchers move seamlessly from data to discovery.
+
+This end-to-end solution directly connects microbial composition to functional metabolic activity. by including interactive capabilities for diversity analysis, community profiling, pathway exploration, and multiomics integration. Together, these features empower researchers to move beyond descriptive summaries and into mechanistic insight, supporting hypothesis generation, biomarker identification, and systems-level understanding of microbiome function. Whether the goal is mechanistic discovery or translational application, Metabolon’s Microbiome Analysis Tool offers the analytical power and user-friendly experience needed to translate microbiome data into actionable knowledge.
+
+## Learn how Metabolon’s platform can advance your research
+
+Request a quote for our services, get more information on sample types and handling procedures, request a letter of support, or submit a question about how metabolomics can advance your research.
+
+![](https://www.metabolon.com/wp-content/uploads/2024/09/BioinformaticsSoftwareAlpha_.png)
+
+#### Talk with a Metabolomics Expert
+
+Your browser does not support the video tag.
+
+[Download the video instead.](https://www.metabolon.com/wp-content/uploads/2026/10/bioinformatics-background-01-resized-1.mp4)
+
+[![Metabolon](https://www.metabolon.com/wp-content/uploads/2022/11/Metabolon-logo-peak@2x.webp)](https://www.metabolon.com/)
+
+- [Services](https://www.metabolon.com/services/)
+  - [Untargeted Metabolomics](https://www.metabolon.com/services/untargeted-metabolomics/)
+    - [Global Discovery Panel](https://www.metabolon.com/services/untargeted-metabolomics/global-panel/)
+    - [Microbiome Panel](https://www.metabolon.com/services/untargeted-metabolomics/microbiome-panel/)
+    - [Identification](https://www.metabolon.com/untargeted-metabolomics/services/identification)
+  - [Targeted Metabolomics](https://www.metabolon.com/services/targeted-metabolomics/)
+    - [Targeted Panels & Single Analyte Assays](https://www.metabolon.com/services/targeted-metabolomics/#panels)
+    - [Amino Acids Targeted Panel](https://www.metabolon.com/services/targeted-metabolomics/amino-acid/)
+    - [Bile Acids Targeted Panel](https://www.metabolon.com/services/targeted-metabolomics/bile-acid/)
+    - [Free Fatty Acids Targeted Panel](https://www.metabolon.com/services/targeted-metabolomics/free-fatty-acid/)
+    - [Short Chain Fatty Acids Targeted Panel](https://www.metabolon.com/services/targeted-metabolomics/short-chain-fatty-acids/)
+  - [Lipidomics](https://www.metabolon.com/services/lipidomics/)
+    - [Complex Lipids Targeted Panel](https://www.metabolon.com/services/targeted-metabolomics/lipidomics/)
+    - [Sphingolipids Targeted Panel](https://www.metabolon.com/services/targeted-metabolomics/sphingolipids/)
+  - [Metagenomic Sequencing](https://www.metabolon.com/services/metagenomic-sequencing/)
+  - [BioPharma Services](https://www.metabolon.com/services/biopharma/)
+    - [Biomarker Discovery](https://www.metabolon.com/services/biomarker-discovery-analysis/)
+    - [Target Identification](https://www.metabolon.com/services/target-identification/)
+    - [Pharmacokinetics](https://www.metabolon.com/services/pharmacokinetics/)
+    - [Growth Media Analysis](https://www.metabolon.com/services/growth-media-analysis/)
+- [Metabolomics Software](https://www.metabolon.com/metabolomics-software/)
+  - [Bioinformatics Overview](https://www.metabolon.com/bioinformatics/)
+  - [Biomarker Lenses®](https://www.metabolon.com/bioinformatics-software/biomarker-lenses/)
+  - [Platform Tools](https://www.metabolon.com/bioinformatics#tools)
+  - [Multiomics](https://www.metabolon.com/bioinformatics/multiomics/)
+  - [Microbiome](https://www.metabolon.com/bioinformatics/microbiome/)
+  - [Statistics](https://www.metabolon.com/bioinformatics/statistics/)
+  - [Support](https://www.metabolon.com/software/support/)
+  - [Release Notes](https://www.metabolon.com/release-notes/)
+- [Applications](https://www.metabolon.com/applications/)
+  - [Research Areas](https://www.metabolon.com/research-areas/)
+    - [Neuroscience](https://www.metabolon.com/applications/neuroscience/)
+    - [Gastroenterology](https://www.metabolon.com/applications/gastroenterology/)
+    - [Hepatology](https://www.metabolon.com/applications/hepatology/)
+    - [Cardiology](https://www.metabolon.com/applications/cardiology/)
+    - [Endocrinology](https://www.metabolon.com/applications/endocrinology/)
+    - [Epidemiology](https://www.metabolon.com/applications/epidemiology/)
+  - [Industries](https://www.metabolon.com/industries/)
+    - [Academic Research](https://www.metabolon.com/services/academic-research/)
+    - [Drug Discovery & Development](https://www.metabolon.com/applications/biopharma-preclinical/)
+    - [Environmental & Agricultural](https://www.metabolon.com/applications/agriculture/)
+    - [Food & Nutritional Sciences](https://www.metabolon.com/applications/nutrition/)
+    - [Clinical Drug Development](https://www.metabolon.com/applications/clinical-drug-development/)
+    - [Population Health Studies](https://www.metabolon.com/applications/population-health/)
+  - [Multiomics](https://www.metabolon.com/multiomics/)
+    - [Genomics](https://www.metabolon.com/multiomics/genomics/)
+    - [Microbiome](https://www.metabolon.com/multiomics/microbiome/)
+    - [Proteomics](https://www.metabolon.com/multiomics/proteomics/)
+    - [Transcriptomics](https://www.metabolon.com/multiomics/transcriptomics/)
+    - [Why Metabolomics](https://www.metabolon.com/why-metabolomics/)
+- [Learn](https://www.metabolon.com/resources/)
+  - [Resources](https://www.metabolon.com/resources/)
+    - [Resource Library](https://www.metabolon.com/resources/)
+    - [Blog](https://www.metabolon.com/blog/)
+    - [Sample Shipment Guides](https://www.metabolon.com/resources/product-literature/sample-shipment/)
+    - [Webinars](https://www.metabolon.com/webinars/)
+    - [Posters](https://www.metabolon.com/resources/?_resource_type=posters)
+    - [Metabolite Encyclopaedia](https://www.metabolon.com/metabolites/)
+  - [Guides](https://www.metabolon.com/guide-to-metabolomics/)
+    - [Guide to Metabolomics](https://www.metabolon.com/?page_id=7485)
+    - [Guide to Multiomics](https://www.metabolon.com/guide-to-multiomics/)
+    - [Sample Shipment Guides](https://www.metabolon.com/resources/product-literature/sample-shipment/)
+    - [Successful Study Design Guide](https://www.metabolon.com/resources/ebooks/guide-to-successful-metabolomics-study-design/)
+    - [Why Metabolon?](https://www.metabolon.com/why-metabolon/)
+  - [Publications](https://www.metabolon.com/publications/)
+  - [Case Studies](https://www.metabolon.com/resources/?_resource_type=case-studies)
+  - [Biomarkers by Metabolon](https://www.metabolon.com/biomarkers-by-metabolon/)
+- [Company](https://www.metabolon.com/about-us/)
+  - [About Us](https://www.metabolon.com/about-us/)
+    - [Company News](https://www.metabolon.com/news/)
+    - [Careers](https://www.metabolon.com/careers/)
+    - [Events](https://www.metabolon.com/events/)
+    - [Press Kit](https://www.metabolon.com/?page_id=11487)
+    - [Contact Us](https://www.metabolon.com/contact-us/)
+  - [Working With Us](https://www.metabolon.com/working-with-us/)
+    - [Partnerships](https://www.metabolon.com/strategic-partnering/)
+    - [Why Metabolon](https://www.metabolon.com/why-metabolon/)
+- [MyMetabolon](https://portal.metabolon.com/login)
+- [Get a Quote](https://www.metabolon.com/contact-us/)
+- [Demo our Data](https://www.metabolon.com/?page_id=18426)
+- [EN](https://www.metabolon.com/bioinformatics-software/microbiome-software/#weglot_switcher "English")
+  - [ES](https://www.metabolon.com/es/bioinformatics-software/microbiome-software/?wg-choose-original=false "Español")
+  - [FR](https://www.metabolon.com/fr/bioinformatics-software/microbiome-software/?wg-choose-original=false "Français")
